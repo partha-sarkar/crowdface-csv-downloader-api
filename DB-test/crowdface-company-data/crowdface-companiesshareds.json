@@ -1,0 +1,409 @@
+[{
+  "_id": {
+    "$oid": "63557ce5776985c542b2b3d3"
+  },
+  "user_id": "63557c38776985c542b2b3b6",
+  "company_id": "63534e6a14afad5ce8c95e9a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666546917475"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666546917475"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63557cfb776985c542b2b3d9"
+  },
+  "user_id": "63557c38776985c542b2b3b6",
+  "company_id": "6352b9d414afad5ce8c95c69",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666546939173"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666546939173"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635585e8776985c542b2b416"
+  },
+  "user_id": "635584b7776985c542b2b3f3",
+  "company_id": "6352b9d414afad5ce8c95c69",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666549224271"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666549224271"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ada11776985c542b2b724"
+  },
+  "user_id": "635acf3a776985c542b2b615",
+  "company_id": "63541f7214afad5ce8c9641b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666898449929"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666898449929"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635e5c47776985c542b2bc43"
+  },
+  "user_id": "63557c38776985c542b2b3b6",
+  "company_id": "635358e214afad5ce8c95fb1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667128391025"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667128391025"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635ee142776985c542b2bdbb"
+  },
+  "user_id": "635ed8a5776985c542b2bc4b",
+  "company_id": "6352f17714afad5ce8c95d7a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667162434405"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667162434405"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635efe86776985c542b2be3d"
+  },
+  "user_id": "635ed8a5776985c542b2bc4b",
+  "company_id": "63541f7214afad5ce8c9641b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667169926006"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667169926006"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63604a94776985c542b2c584"
+  },
+  "user_id": "63557c38776985c542b2b3b6",
+  "company_id": "6353530e14afad5ce8c95f51",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667254932403"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667254932403"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636900a94e6478b50daa525f"
+  },
+  "user_id": "63516d91776985c542b2b1d9",
+  "company_id": "63541f7214afad5ce8c9641b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667825833953"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667825833953"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369e43c4e6478b50daa559b"
+  },
+  "user_id": "63534354776985c542b2b2c9",
+  "company_id": "6353530e14afad5ce8c95f51",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667884092892"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667884092892"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6369f2794e6478b50daa5631"
+  },
+  "user_id": "6360f7efa4a273120471250c",
+  "company_id": "6351ee8614afad5ce8c9597a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667887737804"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667887737804"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a4ecaf254131754543634"
+  },
+  "user_id": "635f6bcb776985c542b2bed0",
+  "company_id": "6352f17714afad5ce8c95d7a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667911370839"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667911370839"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6376fdedf254131754544205"
+  },
+  "user_id": "6376fcb9f2541317545441f8",
+  "company_id": "6353530e14afad5ce8c95f51",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668742637262"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668742637262"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637723f6f254131754544782"
+  },
+  "user_id": "635f6bcb776985c542b2bed0",
+  "company_id": "6351ee8614afad5ce8c9597a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668752374928"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668752374928"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f73aa2448db95fa8622f7"
+  },
+  "user_id": "6376fcb9f2541317545441f8",
+  "company_id": "636a8788a8ed6f0db24b3eac",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669297066725"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669297066725"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f73b52448db95fa862303"
+  },
+  "user_id": "6376fcb9f2541317545441f8",
+  "company_id": "63538d8c14afad5ce8c961b2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669297077916"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669297077916"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389955c2448db95fa862f6b"
+  },
+  "user_id": "6389895f2448db95fa862cab",
+  "company_id": "637dd35e52b2b8ea8d1eccaf",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669961052306"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669961052306"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389a2142448db95fa862fc4"
+  },
+  "user_id": "6389895f2448db95fa862cab",
+  "company_id": "63541f7214afad5ce8c9641b",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669964308433"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669964308433"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389afe02448db95fa863062"
+  },
+  "user_id": "6389895f2448db95fa862cab",
+  "company_id": "6352b9d414afad5ce8c95c69",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669967840716"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669967840716"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638e7a802448db95fa8635d7"
+  },
+  "user_id": "6388ee782448db95fa862866",
+  "company_id": "637d0930c82350f3f689713f",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670281856204"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670281856204"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639b14cc69904829aae05297"
+  },
+  "user_id": "6389895f2448db95fa862cab",
+  "company_id": "6352f17714afad5ce8c95d7a",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671107788675"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671107788675"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7c52269904829aae0c42c"
+  },
+  "user_id": "6389895f2448db95fa862cab",
+  "company_id": "637b471b55c888fb5b9484b4",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1672987938676"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1672987938676"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c1a879df551b8cb37cd26d"
+  },
+  "user_id": "6389895f2448db95fa862cab",
+  "company_id": "6353530e14afad5ce8c95f51",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673635961649"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673635961649"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2d33edf551b8cb37cd33f"
+  },
+  "user_id": "63c2d14bdf551b8cb37cd328",
+  "company_id": "637ca03dc82350f3f6894080",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673712446718"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673712446718"
+    }
+  },
+  "__v": 0
+}]

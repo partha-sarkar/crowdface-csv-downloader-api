@@ -1,0 +1,7913 @@
+[{
+  "_id": {
+    "$oid": "6351ef5214afad5ce8c9598c"
+  },
+  "tab_title": "Summary",
+  "company_id": "6351ee8614afad5ce8c9597a",
+  "tab_data": {
+    "product": "GoSun is a team of designers, engineers, and change-makers, intent on serving the world with unparalleled clean energy solutions.",
+    "daily_users": "42,000",
+    "partnership": "",
+    "patents": "yes"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666314066366"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673631654603"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6352af3e14afad5ce8c95c36"
+  },
+  "tab_title": "Summary",
+  "company_id": "6352ae7f14afad5ce8c95c07",
+  "tab_data": {
+    "product": "Highlights Proprietary AI tech to massively increase the quality & volume of animation Poised to benefit from the Metaverse's enormous need for 3D content Co-founders are power entrepreneurs with prior successful exits Immediate traction with $228K in Year 1 Revenues $20.7M in projected revenues for Year 5 A $16.7B global market in 2020, est. to grow to $39.6B by 2028 Problem Character animations are currently expensive to create with unrealistic movements Animating characters in video games, film and XR is a tedious and extremely expensive process, and the results are often less than ideal.  Despite the time and money spent, the results are not up to par for the current era technology and platforms. The resulting animated characters lack fluid movements, do not interact smoothly with their environments and lack realism. They do not seem human.  Even worse, Non-Player Characters (NPCs) in video games often make decisions that are illogical or unrealistic. These characters are often called AI, without using artificial intelligence at all! We as humans have learned how to outsmart them as they make the same mistakes again and again.  Solution Creating a more realistic gaming experience  We use AI and machine learning to train neural networks that animate character movements frame by frame in real time—increasing the volume and quality of 3D animation at a rate that has never been seen before. This AI trained animation also results in fluid, natural animation that is modeled after how humans move and react to situations in the real world.  To further improve character actions and movement, we replace the outdated and unrealistic decision trees—that have historically driven character decisions since the days of Pac Man—with modern neural networks that are trained by observing real players",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666363198339"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666363198339"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6352ba5614afad5ce8c95c79"
+  },
+  "tab_title": "Summary",
+  "company_id": "6352b9d414afad5ce8c95c69",
+  "tab_data": {
+    "product": "Ember Fund: the smarter way to invest Ember Fund is a leading, global mobile app that allows users to easily invest in crypto portfolios with just a few taps.",
+    "daily_users": "500K",
+    "partnership": "Partnership with Evite.com. 100M users with 300M reach in the US. 400%+ YoY revenue growth as of 3/2022. 500K+ users",
+    "patents": "yes"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666366038825"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666366526975"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6352f28414afad5ce8c95d8d"
+  },
+  "tab_title": "Summary",
+  "company_id": "6352f17714afad5ce8c95d7a",
+  "tab_data": {
+    "product": "Groundfloor is an award-winning wealth-tech platform offering high-yield, short-term, real estate debt investments directly to the general public.Short-term, high-yield investments that average a 10% annual return",
+    "daily_users": "Nearly 200,000 users and growing quickly",
+    "partnership": "Over $800 million invested on the platform to date - Winner of over two dozen industry and innovation awards - Raised more than $38 million from notable angels, VCs, and over 6,375 individual retail investors",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666380420942"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666381359955"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63534a2314afad5ce8c95e62"
+  },
+  "tab_title": "Summary",
+  "company_id": "635348fb14afad5ce8c95e50",
+  "tab_data": {
+    "product": "We are building SideGuide: a lightweight, embeddable, online code editor that lets developers play with your API without setup. Our format integrates guides directly into the editor, giving users the context they need to understand your use-cases while experimenting immediately. We give developers and technical PMs an easy way to test, understand and evaluate your products. As a bonus, we also provide analytics and insights from sessions so you can improve the implementation process and understand your customers.",
+    "patents": "no",
+    "daily_users": "Community of over 50,000 developers",
+    "partnership": "Used by projects at Meta. Over 2.6 Billion dollar market opportunity"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666402851791"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666402851791"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63534ed114afad5ce8c95ead"
+  },
+  "tab_title": "Summary",
+  "company_id": "63534e6a14afad5ce8c95e9a",
+  "tab_data": {
+    "product": "We build heat engines that allow the industry and the electrical grid to stop polluting at scale in a cost-effective way. Our engine is built to replace fossil-fired industrial steam boilers and dryers by a low-cost, fully electric alternative, in the form of high temperature heat pumps. Long-term, we plan to replace gas-fired peaker power plants, which provide backup power when there is no sun or wind, by a hybrid daily and seasonal renewable energy storage system, powered by the same engine as the heat pumps. Combined, those two market opportunities can prevent one third of worldwide direct CO2 emissions, or more than 12 Gt/year. Enough to change the fate of our climate.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666404049323"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668934880328"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353541a14afad5ce8c95f78"
+  },
+  "tab_title": "Summary",
+  "company_id": "6353530e14afad5ce8c95f51",
+  "tab_data": {
+    "product": "HealHaus is a one-stop-shop for diverse healing services to be experienced through our proprietary products and services:  1. HealHaus @ Home: our online subscription-based membership  2. HealHaus @ Work: our corporate wellness program  3. Brooklyn-based in-person studio  4. Our live and on-demand app, planned to launch in 2023   We specialize in taking a holistic approach to wellness, creating an expansive healing experience through a variety of services including yoga, meditation, therapy, etc. This approach results in transparent and relatable safe spaces that encourage our community to come as they are.",
+    "patents": "no",
+    "daily_users": "HealHaus is a one-stop-shop for diverse healing services to be experienced through our proprietary products and services:  1. HealHaus @ Home: our online subscription-based membership  2. HealHaus @ Work: our corporate wellness program  3. Brooklyn-based in-person studio  4. Our live and on-demand app, planned to launch in 2023   We specialize in taking a holistic approach to wellness, creating an expansive healing experience through a variety of services including yoga, meditation, therapy, etc. This approach results in transparent and relatable safe spaces that encourage our community to come as they are.",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666405402799"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666405402799"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635359a614afad5ce8c95fe3"
+  },
+  "tab_title": "Summary",
+  "company_id": "635358e214afad5ce8c95fb1",
+  "tab_data": {
+    "product": "Oncolyze has designed a novel anti-cancer drug (OM-301) that targets a cell surface protein (HDM2) which is unique to cancer cells. OM-301 has two components. The first, a targeting segment, finds HDM2 residing on the external surface of nearly all cancer cells but not normal cells. Once OM-301 finds the HDM2 and anchors, the second segment pokes holes in the surface and kills the cancer cell almost instantly.",
+    "patents": "yes",
+    "daily_users": "N/A",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666406822974"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666406822974"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63535eea14afad5ce8c96092"
+  },
+  "tab_title": "Summary",
+  "company_id": "63535e2514afad5ce8c9607c",
+  "tab_data": {
+    "product": "The Chair that gets up and goes! Zeen lets you sit, stand and walk under your own power, safely and elegantly.",
+    "patents": "yes",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666408170394"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666408170394"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63538dc914afad5ce8c961c9"
+  },
+  "tab_title": "Summary",
+  "company_id": "63538d8c14afad5ce8c961b2",
+  "tab_data": {
+    "product": "Boxabl has created a building system that's compatible with scalable factory mass production. Our mission is to significantly lower the cost of homeownership for everyone. Obsessively designed to the highest standards of quality, strength, and sustainability to last for generations.",
+    "daily_users": "100000",
+    "partnership": "A strategic partnership and securing investment from D.R. Horton (aka the largest home builder in the US)",
+    "patents": "yes"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666420169309"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666420802652"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353943f14afad5ce8c96226"
+  },
+  "tab_title": "Summary",
+  "company_id": "635392c114afad5ce8c961ff",
+  "tab_data": {
+    "product": "Intelomed has designed a remote system for easily obtaining patient vital signs using only a smartphone. We believe this real-time, data-based approach has the potential to drastically improve treatment capabilities and overall quality of care within the telemedicine industry.  mCVInsight will use an advanced biometric algorithm to analyze micro-changes in skin pigment of the patient’s face up to 30 times a second. The data captured can then be translated into measurable metrics such as pulse rate and respiration rate. With remote access to these insights, healthcare professionals will have the potential to make a more accurate assessment of a patient’s condition, allowing patients to feel confident about the care they receive from the comfort of home. Data can be communicated and can be stored via a HIPAA-compliant cloud server. The product is planned to launch with the full capabilities to track two metrics, pulse rate and respiration rate, with SpO2, Afib, and Respiratory Stress targeted shortly thereafter.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666421823915"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666422290788"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63539a0414afad5ce8c96294"
+  },
+  "tab_title": "Summary",
+  "company_id": "635398b514afad5ce8c9627b",
+  "tab_data": {
+    "product": "Combining the latest in solar, energy storage and electronics, GoSun builds consumer products that meet essential needs and are better than today’s incumbent without compromising quality, performance or affordability. Not only do these portable devices make it easier to enjoy the outdoors, they are also capable of answering the call during times of need. ",
+    "patents": "yes",
+    "daily_users": "100,000",
+    "partnership": "HighNoon, Camp365, GEM, etc."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666423300404"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666423300404"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63541fe014afad5ce8c96431"
+  },
+  "tab_title": "Summary",
+  "company_id": "63541f7214afad5ce8c9641b",
+  "tab_data": {
+    "product": "Proof is launching a complimentary operation to its original portfolio in the heart of Phoenix. Our new entity Proof Bread 51 LLC will encompass a pair of retail locations including a satellite bakery and a prime micro retail unit as well as a 3,000 square foot warehouse.",
+    "daily_users": "500",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666457568098"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673717759184"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6359c77afac2af4a91b4a8de"
+  },
+  "tab_title": "Summary",
+  "company_id": "6359c72dfac2af4a91b4a8c1",
+  "tab_data": {
+    "product": "Most recipes found online live as static text on a website, making it hard to customize them to accommodate dietary preferences and restrictions.  Manna’s proprietary technology breaks down each recipe into standardized components, allowing the recipe to become fully customizable by removing or changing inputs based on preferences and needs.  The company’s app has a variety of features:  Swipe and scroll through a discovery feed for recipes made and shared by your network Create your own recipes from scratch or easily customize a recipe from your favorite website Instantly shop for groceries on the Manna app with the new integration with Amazon.",
+    "patents": "no",
+    "daily_users": "8000",
+    "partnership": "​​Partnership with celebrity chef David Burke; and collaborations with prominent content creators including Internet Shaquille (537k YouTube subscribers), Senpai Kai (598k YouTube subscribers), Lucie B. Fink (390k TikTok Followers), and Emily Fedner (130k followers)"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666828154822"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666828154822"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63668f71a8ed6f0db24aea95"
+  },
+  "tab_title": "Summary",
+  "company_id": "63668df8a8ed6f0db24aea43",
+  "tab_data": {
+    "product": " Jet Token’s platform and proposed blockchain technology is designed to be widely adopted across the industry enabling more efficient use of aircraft and easier booking for passengers.",
+    "daily_users": "Thousands of customers",
+    "partnership": "We’ve already proven that our app platform works and that our offerings are hitting a sweet spot for both existing and first-time private flyers. To scale-up faster, Jet Token has already started taking deliveries pursuant to a multi-aircraft deal for HondaJet Elite aircraft from Honda Aircraft Company, LLC. Building upon the strength and synergies between our two companies, Jet Token and Honda Aircraft are collaborating in marketing efforts and joint promotion of the HondaJet Elite and the Jet Token brand. ",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667665777204"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667666020242"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636e06db9c82ef26d794a8d4"
+  },
+  "tab_title": "Summary",
+  "company_id": "636a8788a8ed6f0db24b3eac",
+  "tab_data": {
+    "product": "Equity Crowdfunding Platform",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668155099449"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668155099449"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636e7d919c82ef26d794aa2e"
+  },
+  "tab_title": "Summary",
+  "company_id": "636e7b7c9c82ef26d794a9d3",
+  "tab_data": {
+    "product": "WiGL, Wireless-electric Grid Local Air Networks (pronounced “wiggle”), is bringing new technologies developed for the Department of Defense to make everyone’s life more convenient .. by creating a network of targeted energy to power or recharge the Internet of Things (“IoT”). WiFi gets you wireless internet, WiGL gets you wireless power.",
+    "daily_users": "236000000",
+    "partnership": "Guinn Partners, Cubic Mission Performance Solutions, Florida International University",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668185489039"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673722998286"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636e89dd9c82ef26d794aac7"
+  },
+  "tab_title": "Summary",
+  "company_id": "636e87ce9c82ef26d794aa3b",
+  "tab_data": {
+    "product": "SapientX products understand up to 99% of requests, speak 40 languages, work both on and offline, and they protect user data. Companies we work with range from auto and motorcycle companies to companies that offer digital signage, teleconferencing systems, vending machines, and more.",
+    "daily_users": "Our assistants speak 40 languages and dialects allowing us to reach 5.5 billion potential users, and we can run with or without the Internet.",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668188637840"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673722692974"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636e8f269c82ef26d794ab03"
+  },
+  "tab_title": "Summary",
+  "company_id": "636e8ef29c82ef26d794aaec",
+  "tab_data": {
+    "product": "R3 Printer, a high-performance 3D printer for manufacturing custom 3D-printed products at prices that can compete with mass production",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668189990188"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673722065125"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fb7539c82ef26d794aba4"
+  },
+  "tab_title": "Summary",
+  "company_id": "636fb6ca9c82ef26d794ab8d",
+  "tab_data": {
+    "product": "Microcast social media platform",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668265811358"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668265811358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fc2ae9c82ef26d794ac3d"
+  },
+  "tab_title": "Summary",
+  "company_id": "636fc2739c82ef26d794ac26",
+  "tab_data": {
+    "product": "Superpremium beer brand with a mission to bring better, cleaner beer to the world.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668268718633"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673721084968"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fc96a9c82ef26d794ac72"
+  },
+  "tab_title": "Summary",
+  "company_id": "636fc9439c82ef26d794ac5b",
+  "tab_data": {
+    "product": "Ice Cream",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668270442050"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668270442050"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fcda29c82ef26d794aca2"
+  },
+  "tab_title": "Summary",
+  "company_id": "636fcd7e9c82ef26d794ac8b",
+  "tab_data": {
+    "product": "Nutrition product",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668271522491"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668271522491"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fd52b9c82ef26d794acd9"
+  },
+  "tab_title": "Summary",
+  "company_id": "636fd4999c82ef26d794acc2",
+  "tab_data": {
+    "product": "Leadership certification program",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668273451958"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668273480495"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636fddac9c82ef26d794ad17"
+  },
+  "tab_title": "Summary",
+  "company_id": "636fdc189c82ef26d794ad00",
+  "tab_data": {
+    "product": "Software",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668275628462"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668275628462"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6370a5329c82ef26d794ae18"
+  },
+  "tab_title": "Summary",
+  "company_id": "6370a4d19c82ef26d794ae01",
+  "tab_data": {
+    "product": "Vodka",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668326706808"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668326706808"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6370af069c82ef26d794ae53"
+  },
+  "tab_title": "Summary",
+  "company_id": "6370aee09c82ef26d794ae3c",
+  "tab_data": {
+    "product": "Solar nano-grid",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668329222655"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668329222655"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6370b7049c82ef26d794aec7"
+  },
+  "tab_title": "Summary",
+  "company_id": "6370b42f9c82ef26d794aeb0",
+  "tab_data": {
+    "product": "Beer",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668331268745"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668331268745"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6370bb729c82ef26d794aefb"
+  },
+  "tab_title": "Summary",
+  "company_id": "6370ba969c82ef26d794aee4",
+  "tab_data": {
+    "product": "Entertainment",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668332402302"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668332402302"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6370c26c9c82ef26d794af33"
+  },
+  "tab_title": "Summary",
+  "company_id": "6370c2239c82ef26d794af1c",
+  "tab_data": {
+    "product": "Drug development",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668334188766"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668334188766"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63711f689c82ef26d794afa4"
+  },
+  "tab_title": "Summary",
+  "company_id": "63711f459c82ef26d794af8d",
+  "tab_data": {
+    "product": "Organic material",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668357992795"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668357992795"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6371237c9c82ef26d794b2ee"
+  },
+  "tab_title": "Summary",
+  "company_id": "6371231d9c82ef26d794b2cb",
+  "tab_data": {
+    "product": "Drone aircraft",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668359036187"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668359036187"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637129449c82ef26d794b3fe"
+  },
+  "tab_title": "Summary",
+  "company_id": "637129119c82ef26d794b351",
+  "tab_data": {
+    "product": "Vanadium flow battery",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668360516312"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668360516312"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63712f0e9c82ef26d794b473"
+  },
+  "tab_title": "Summary",
+  "company_id": "63712eba9c82ef26d794b45c",
+  "tab_data": {
+    "product": "Power energy product",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668361998876"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668361998876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637133a29c82ef26d794b4c0"
+  },
+  "tab_title": "Summary",
+  "company_id": "6371334b9c82ef26d794b4a9",
+  "tab_data": {
+    "product": "Sensing bionic hand",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668363170216"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668363170216"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6371375b9c82ef26d794b4f4"
+  },
+  "tab_title": "Summary",
+  "company_id": "637137269c82ef26d794b4dd",
+  "tab_data": {
+    "product": "AIR CYLINDER WHEELS",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668364123251"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668364123251"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63713cd89c82ef26d794b55e"
+  },
+  "tab_title": "Summary",
+  "company_id": "63713cb99c82ef26d794b547",
+  "tab_data": {
+    "product": "CT Scanner",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668365528080"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668365528080"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6371437a9c82ef26d794b59a"
+  },
+  "tab_title": "Summary",
+  "company_id": "637143289c82ef26d794b583",
+  "tab_data": {
+    "product": "Digital Gaming",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668367226933"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668367226933"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637267bf9c82ef26d794b749"
+  },
+  "tab_title": "Summary",
+  "company_id": "637267899c82ef26d794b732",
+  "tab_data": {
+    "product": "Wind turbine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668442047321"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668442047321"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63726aaa9c82ef26d794b77a"
+  },
+  "tab_title": "Summary",
+  "company_id": "63726a589c82ef26d794b763",
+  "tab_data": {
+    "product": "Carrier agnostic (independent) parcel locker network",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668442794312"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668442794312"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63726e5b9c82ef26d794b7ad"
+  },
+  "tab_title": "Summary",
+  "company_id": "63726e319c82ef26d794b796",
+  "tab_data": {
+    "product": "Insemination kit",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668443739745"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668443739745"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637274cb9c82ef26d794b80b"
+  },
+  "tab_title": "Summary",
+  "company_id": "6372749d9c82ef26d794b7f4",
+  "tab_data": {
+    "product": "Construction Robot",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668445387762"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668445387762"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6372786e9c82ef26d794b859"
+  },
+  "tab_title": "Summary",
+  "company_id": "637278569c82ef26d794b842",
+  "tab_data": {
+    "product": "Wheel",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668446318027"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668446318027"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63727ea79c82ef26d794b8c7"
+  },
+  "tab_title": "Summary",
+  "company_id": "63727e779c82ef26d794b8ae",
+  "tab_data": {
+    "product": "Drone",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668447911761"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668447911761"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6372841f9c82ef26d794b92b"
+  },
+  "tab_title": "Summary",
+  "company_id": "637283e79c82ef26d794b914",
+  "tab_data": {
+    "product": "Smart Mailbox",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668449311577"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668449311577"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6372892b9c82ef26d794b964"
+  },
+  "tab_title": "Summary",
+  "company_id": "637289019c82ef26d794b94d",
+  "tab_data": {
+    "product": "Automated kitchen",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668450603876"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668450603876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63735741d165da16357c3460"
+  },
+  "tab_title": "Summary",
+  "company_id": "6373571ed165da16357c32f0",
+  "tab_data": {
+    "product": "Microbicidal light",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668503361280"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668503361280"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63735b19d165da16357c3d93"
+  },
+  "tab_title": "Summary",
+  "company_id": "63735afad165da16357c3d7c",
+  "tab_data": {
+    "product": "Cutting-edge biodegradable medical implant",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668504345439"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668504345439"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63736066d165da16357c3dcb"
+  },
+  "tab_title": "Summary",
+  "company_id": "6373602cd165da16357c3db4",
+  "tab_data": {
+    "product": "Animation",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668505702461"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668505702461"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63736520d165da16357c3e25"
+  },
+  "tab_title": "Summary",
+  "company_id": "637364e4d165da16357c3e0e",
+  "tab_data": {
+    "product": "Computer cooling product",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668506912094"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668506912094"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63736969d165da16357c3ed1"
+  },
+  "tab_title": "Summary",
+  "company_id": "63736939d165da16357c3eb9",
+  "tab_data": {
+    "product": "Wearable brain stimulation technology",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668508009438"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668508009438"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63736d0cd165da16357c3f7e"
+  },
+  "tab_title": "Summary",
+  "company_id": "63736ca1d165da16357c3f67",
+  "tab_data": {
+    "product": "Digital Marketing",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668508940657"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668508976303"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637372f7d165da16357c4020"
+  },
+  "tab_title": "Summary",
+  "company_id": "637372e3d165da16357c4009",
+  "tab_data": {
+    "product": "Vehicle",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668510455024"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668510455024"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6373be50d165da16357c42c7"
+  },
+  "tab_title": "Summary",
+  "company_id": "6373be39d165da16357c42b0",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668529744501"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668529744501"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6373c34ed165da16357c4394"
+  },
+  "tab_title": "Summary",
+  "company_id": "6373c331d165da16357c437d",
+  "tab_data": {
+    "product": "Transparent, electricity-generating window",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668531022941"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668531022941"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6373c6b3d165da16357c449e"
+  },
+  "tab_title": "Summary",
+  "company_id": "6373c6a3d165da16357c4487",
+  "tab_data": {
+    "product": "Automated retail technology",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668531891557"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668531891557"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6373cb35d165da16357c44e0"
+  },
+  "tab_title": "Summary",
+  "company_id": "6373ca8fd165da16357c44c9",
+  "tab_data": {
+    "product": "Tree Growing",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668533045061"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668533045061"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6373ec27d165da16357c4a34"
+  },
+  "tab_title": "Summary",
+  "company_id": "6373ec0dd165da16357c4a11",
+  "tab_data": {
+    "product": "Pureboost",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668541479199"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668934777718"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6373f9cad165da16357c50ab"
+  },
+  "tab_title": "Summary",
+  "company_id": "6373f9b9d165da16357c506c",
+  "tab_data": {
+    "product": "https://tampontribe.com/collections/shop",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668544970994"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668934666164"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637450b3d165da16357c5420"
+  },
+  "tab_title": "Summary",
+  "company_id": "637450a2d165da16357c5409",
+  "tab_data": {
+    "product": "Software",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668567219915"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668567219915"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374587fd165da16357c5631"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374586ed165da16357c561a",
+  "tab_data": {
+    "product": "Comic",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668569215096"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668569215096"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63745dd7d165da16357c568b"
+  },
+  "tab_title": "Summary",
+  "company_id": "63745a68d165da16357c5674",
+  "tab_data": {
+    "product": "StrideTech Go",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668570583984"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668570583984"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63746232d165da16357c56fc"
+  },
+  "tab_title": "Summary",
+  "company_id": "63746226d165da16357c56e5",
+  "tab_data": {
+    "product": "Cloth",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668571698882"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668571698882"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63746697d165da16357c5738"
+  },
+  "tab_title": "Summary",
+  "company_id": "637465d5d165da16357c5721",
+  "tab_data": {
+    "product": "Application",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668572823243"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668572823243"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637469801dae5f823e8d5015"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374695c1dae5f823e8d4ffe",
+  "tab_data": {
+    "product": "Medicine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668573568307"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668573568307"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63746c331dae5f823e8d5048"
+  },
+  "tab_title": "Summary",
+  "company_id": "63746c1a1dae5f823e8d5031",
+  "tab_data": {
+    "product": "Engine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668574259017"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668574259017"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63746f491dae5f823e8d5152"
+  },
+  "tab_title": "Summary",
+  "company_id": "63746f331dae5f823e8d50cb",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668575049890"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668575049890"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374728c1dae5f823e8d578c"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374726d1dae5f823e8d5775",
+  "tab_data": {
+    "product": "Drone aircraft",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668575884513"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668575884513"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63748a0a1dae5f823e8d5897"
+  },
+  "tab_title": "Summary",
+  "company_id": "637489ef1dae5f823e8d5880",
+  "tab_data": {
+    "product": "Fuel",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668581898605"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668581898605"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63748de31dae5f823e8d5942"
+  },
+  "tab_title": "Summary",
+  "company_id": "63748dc51dae5f823e8d592b",
+  "tab_data": {
+    "product": "Caviar",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668582883589"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668582883589"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637490c21dae5f823e8d5998"
+  },
+  "tab_title": "Summary",
+  "company_id": "637490a91dae5f823e8d5981",
+  "tab_data": {
+    "product": "Coffee",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668583618083"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668583618083"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374954a1dae5f823e8d5a96"
+  },
+  "tab_title": "Summary",
+  "company_id": "637493681dae5f823e8d599b",
+  "tab_data": {
+    "product": " KYC ",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668584778883"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668584891216"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374969f1dae5f823e8d5b33"
+  },
+  "tab_title": "Summary",
+  "company_id": "637495121dae5f823e8d5a7f",
+  "tab_data": {
+    "product": "Data storage and analysis products",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668585119008"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668585200647"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63749a361dae5f823e8d5d1a"
+  },
+  "tab_title": "Summary",
+  "company_id": "63749a251dae5f823e8d5cf2",
+  "tab_data": {
+    "product": "Coffee",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668586038775"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668586045698"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374a0bb1dae5f823e8d602e"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374a02e1dae5f823e8d6017",
+  "tab_data": {
+    "product": "PAY",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668587707937"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669113416189"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374a6fd1dae5f823e8d61f5"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374a54e1dae5f823e8d6124",
+  "tab_data": {
+    "product": "VIDEO GAME",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668589309895"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668589309895"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374b4801dae5f823e8d654d"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374b4431dae5f823e8d6515",
+  "tab_data": {
+    "product": "HEALTHTECH",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668592768962"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668592768962"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374c15c1dae5f823e8d677c"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374c13c1dae5f823e8d6765",
+  "tab_data": {
+    "product": "http://www.espanita-tequila.com/tequila.html",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668596060576"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668934483640"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374ccceb6642e056d923057"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374ccbeb6642e056d923040",
+  "tab_data": {
+    "product": "GAME",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668598990886"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668598990886"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374cd5eb6642e056d923071"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374cd4db6642e056d92305a",
+  "tab_data": {
+    "product": "https://tucsontamale.com/collections/shop-all",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668599134129"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668934362695"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374d5e5b6642e056d9232a7"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374d591b6642e056d923264",
+  "tab_data": {
+    "product": "Gas and Oil",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668601317717"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668601317717"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374d5f7b6642e056d9232ab"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374d5d7b6642e056d923291",
+  "tab_data": {
+    "product": "https://www.livsndesigns.com/collections/shop-all",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668601335106"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668934325946"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374e7a2b6642e056d923776"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374e793b6642e056d923737",
+  "tab_data": {
+    "product": "https://www.oneleet.com/pricing",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668605858221"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668934264973"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6374f343b6642e056d92379d"
+  },
+  "tab_title": "Summary",
+  "company_id": "6374f2ebb6642e056d923786",
+  "tab_data": {
+    "product": "HEALTH ISSUE",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668608835200"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668608877232"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375127ab6642e056d9241af"
+  },
+  "tab_title": "Summary",
+  "company_id": "63751257b6642e056d924198",
+  "tab_data": {
+    "product": "Clinical laboratory tests",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668616826799"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668616826799"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637517b3b6642e056d9241f1"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375179fb6642e056d9241da",
+  "tab_data": {
+    "product": "Fitness product",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668618163239"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668618163239"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63751acbb6642e056d92424b"
+  },
+  "tab_title": "Summary",
+  "company_id": "63751aa7b6642e056d924234",
+  "tab_data": {
+    "product": "Food",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668618955956"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668618955956"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63751edfb6642e056d9242a8"
+  },
+  "tab_title": "Summary",
+  "company_id": "63751ea4b6642e056d924291",
+  "tab_data": {
+    "product": "Broadband wireless access and medical devices",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668619999162"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668619999162"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637521d2b6642e056d9242db"
+  },
+  "tab_title": "Summary",
+  "company_id": "637521afb6642e056d9242c4",
+  "tab_data": {
+    "product": "Virtual reality platform",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668620754164"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668620754164"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637525b4b6642e056d9243d1"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375255bb6642e056d9243ba",
+  "tab_data": {
+    "product": "Fish handling",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668621748076"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668621748076"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63752b39b6642e056d924463"
+  },
+  "tab_title": "Summary",
+  "company_id": "63752ae9b6642e056d92444c",
+  "tab_data": {
+    "product": "Artwork",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668623161397"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668623161397"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375a9f4b6642e056d924bac"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375a9c7b6642e056d924b95",
+  "tab_data": {
+    "product": " video game",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668655604069"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668655604069"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d3e7b5f6d5d235fd0a55"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375d3dab5f6d5d235fd0a3e",
+  "tab_data": {
+    "product": "OraStripdx rapid test",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668666343452"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668666343452"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375d853b5f6d5d235fd0ad5"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375d83eb5f6d5d235fd0abe",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668667475918"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668667475918"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375de4bb5f6d5d235fd0c4f"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375dd77b5f6d5d235fd0c38",
+  "tab_data": {
+    "product": "DOG  JENNIW HEALTH",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668669003463"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668669037855"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375e37bb5f6d5d235fd0cba"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375e334b5f6d5d235fd0c95",
+  "tab_data": {
+    "product": "GAME",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668670331489"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668670331489"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375e80eb5f6d5d235fd0dc1"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375e7adb5f6d5d235fd0daa",
+  "tab_data": {
+    "product": "technology",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668671502338"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668671502338"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375f29fb5f6d5d235fd134b"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375f19fb5f6d5d235fd1321",
+  "tab_data": {
+    "product": "SOCIAL MEDIA",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668674207184"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668674217294"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375fbbcb5f6d5d235fd1440"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375faf0b5f6d5d235fd141d",
+  "tab_data": {
+    "product": "SOFTWARE",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668676540665"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668676556951"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6375ff89b5f6d5d235fd1487"
+  },
+  "tab_title": "Summary",
+  "company_id": "6375fef6b5f6d5d235fd1470",
+  "tab_data": {
+    "product": "WHO",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668677513592"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668677513592"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637607aeb5f6d5d235fd165a"
+  },
+  "tab_title": "Summary",
+  "company_id": "63760796b5f6d5d235fd1643",
+  "tab_data": {
+    "product": "https://www.swellmoney.com/cash",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668679598181"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668934059047"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6376098db5f6d5d235fd1695"
+  },
+  "tab_title": "Summary",
+  "company_id": "63760970b5f6d5d235fd167e",
+  "tab_data": {
+    "product": "https://budlove.com/shop/#neutral",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668680077419"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668934023347"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6376163ab5f6d5d235fd1710"
+  },
+  "tab_title": "Summary",
+  "company_id": "63761624b5f6d5d235fd16f9",
+  "tab_data": {
+    "product": "https://www.drinkrejoy.com/products/",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668683322413"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668933999778"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637617c5b5f6d5d235fd1762"
+  },
+  "tab_title": "Summary",
+  "company_id": "637617aeb5f6d5d235fd174b",
+  "tab_data": {
+    "product": "",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668683717459"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668933969002"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637622cfb5f6d5d235fd178a"
+  },
+  "tab_title": "Summary",
+  "company_id": "63762264b5f6d5d235fd1773",
+  "tab_data": {
+    "product": "patented technology",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668686543175"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668686543175"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637626ffb5f6d5d235fd17c1"
+  },
+  "tab_title": "Summary",
+  "company_id": "637626b2b5f6d5d235fd17aa",
+  "tab_data": {
+    "product": "APPS",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668687615825"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668687615825"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63762e7fb5f6d5d235fd182e"
+  },
+  "tab_title": "Summary",
+  "company_id": "63762d75b5f6d5d235fd17ee",
+  "tab_data": {
+    "product": "MEDICAL dislodgement",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668689535912"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668689543494"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63763498b5f6d5d235fd1893"
+  },
+  "tab_title": "Summary",
+  "company_id": "63763427b5f6d5d235fd1866",
+  "tab_data": {
+    "product": "i statement,APPS",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668691096111"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668691106110"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637638edb5f6d5d235fd18cd"
+  },
+  "tab_title": "Summary",
+  "company_id": "637638a6b5f6d5d235fd18b6",
+  "tab_data": {
+    "product": "HEALTH CARE",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668692205929"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668692211497"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637645d2b5f6d5d235fd19df"
+  },
+  "tab_title": "Summary",
+  "company_id": "63764582b5f6d5d235fd19c8",
+  "tab_data": {
+    "product": "GOODS RETAILER",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668695506229"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668695506229"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63765585b5f6d5d235fd1a16"
+  },
+  "tab_title": "Summary",
+  "company_id": "63765574b5f6d5d235fd19ff",
+  "tab_data": {
+    "product": "FASHION",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668699525195"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668699525195"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63765b8ab5f6d5d235fd1a4d"
+  },
+  "tab_title": "Summary",
+  "company_id": "63765b5fb5f6d5d235fd1a36",
+  "tab_data": {
+    "product": "metals ",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668701066698"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668701066698"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637663aeb5f6d5d235fd1a84"
+  },
+  "tab_title": "Summary",
+  "company_id": "6376639cb5f6d5d235fd1a6d",
+  "tab_data": {
+    "product": "CAR",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668703150065"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668703150065"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637667bcb5f6d5d235fd1abc"
+  },
+  "tab_title": "Summary",
+  "company_id": "63766791b5f6d5d235fd1aa5",
+  "tab_data": {
+    "product": "HORROR VIDEO",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668704188482"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668704188482"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63766a3eb5f6d5d235fd1ba5"
+  },
+  "tab_title": "Summary",
+  "company_id": "63766a2bb5f6d5d235fd1b8f",
+  "tab_data": {
+    "product": "FILM MARKETING",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668704830792"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668704830792"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63766d4db5f6d5d235fd245c"
+  },
+  "tab_title": "Summary",
+  "company_id": "63766d3ab5f6d5d235fd2445",
+  "tab_data": {
+    "product": "https://www.mightly.com/collections/shop-all",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668705613645"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668933933668"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63768054b5f6d5d235fd2e65"
+  },
+  "tab_title": "Summary",
+  "company_id": "63768032b5f6d5d235fd2e4e",
+  "tab_data": {
+    "product": "Royal Caridea Pond Raised Shrimp",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668710484550"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932714503"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6376f799b5f6d5d235fd3d15"
+  },
+  "tab_title": "Summary",
+  "company_id": "6376f778b5f6d5d235fd3cfe",
+  "tab_data": {
+    "product": "Massage Robots",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668741017367"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668741017367"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63770c77b5f6d5d235fd65cd"
+  },
+  "tab_title": "Summary",
+  "company_id": "63770c69b5f6d5d235fd65b6",
+  "tab_data": {
+    "product": "Charge-injected spraying",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668746359852"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668746359852"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63770f26b5f6d5d235fd6f85"
+  },
+  "tab_title": "Summary",
+  "company_id": "63770eddb5f6d5d235fd6e80",
+  "tab_data": {
+    "product": "TEETH painless",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668747046218"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668747046218"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637713beb5f6d5d235fd9387"
+  },
+  "tab_title": "Summary",
+  "company_id": "63771389b5f6d5d235fd9368",
+  "tab_data": {
+    "product": "recorded on a CLIPBOARD",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668748222636"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668748222636"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63771bae272376d88009503d"
+  },
+  "tab_title": "Summary",
+  "company_id": "63771b86272376d880095026",
+  "tab_data": {
+    "product": "DRINK",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668750254730"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668750254730"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63771eb9bebbb9e9a20266a3"
+  },
+  "tab_title": "Summary",
+  "company_id": "63771ea3bebbb9e9a2026374",
+  "tab_data": {
+    "product": "DRINK",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668751033464"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668751033464"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637733e7efc640d0d08115d0"
+  },
+  "tab_title": "Summary",
+  "company_id": "637733beefc640d0d08115b9",
+  "tab_data": {
+    "product": "socks",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668756455887"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668756455887"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63773547efc640d0d0811935"
+  },
+  "tab_title": "Summary",
+  "company_id": "63773531efc640d0d081191e",
+  "tab_data": {
+    "product": "Beer",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668756807961"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668756807961"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377382fefc640d0d0811b24"
+  },
+  "tab_title": "Summary",
+  "company_id": "63773804efc640d0d0811b0d",
+  "tab_data": {
+    "product": "Digital pharmacy",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668757551877"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668757551877"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63773964efc640d0d0811da4"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377394eefc640d0d0811c64",
+  "tab_data": {
+    "product": "https://ukey.co/products/",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668757860385"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932667866"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63773b1fefc640d0d0811feb"
+  },
+  "tab_title": "Summary",
+  "company_id": "6376fc42b5f6d5d235fd43bc",
+  "tab_data": {
+    "product": "Manufacturing network",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668758303161"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668758303161"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63773fdcefc640d0d08120e5"
+  },
+  "tab_title": "Summary",
+  "company_id": "63773fbaefc640d0d08120a6",
+  "tab_data": {
+    "product": "Digital prescription wallet",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668759516004"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668759516004"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637740d3efc640d0d081212a"
+  },
+  "tab_title": "Summary",
+  "company_id": "63773699efc640d0d0811aa7",
+  "tab_data": {
+    "product": "KITCHEN",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668759763520"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668759763520"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637741edefc640d0d08121af"
+  },
+  "tab_title": "Summary",
+  "company_id": "637741caefc640d0d081216f",
+  "tab_data": {
+    "product": "Smartphone case",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668760045387"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668760045387"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637745b7efc640d0d08126d4"
+  },
+  "tab_title": "Summary",
+  "company_id": "63774581efc640d0d08126bd",
+  "tab_data": {
+    "product": "EDUCATION",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668761015151"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668761015151"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63774671efc640d0d0812879"
+  },
+  "tab_title": "Summary",
+  "company_id": "63774620efc640d0d081283a",
+  "tab_data": {
+    "product": "Coaching Service",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668761201768"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668761219871"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63774851efc640d0d0812926"
+  },
+  "tab_title": "Summary",
+  "company_id": "637747c6efc640d0d08128d5",
+  "tab_data": {
+    "product": "MUSIC INSTRUMENT",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668761681773"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668761681773"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63774868efc640d0d081293f"
+  },
+  "tab_title": "Summary",
+  "company_id": "63774844efc640d0d0812915",
+  "tab_data": {
+    "product": "https://www.smarttirecompany.com/product",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668761704229"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932581278"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637749a8efc640d0d0812d6b"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377495eefc640d0d0812cda",
+  "tab_data": {
+    "product": "Art",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668762024793"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668762031436"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63774b15efc640d0d081318f"
+  },
+  "tab_title": "Summary",
+  "company_id": "63774afaefc640d0d0813150",
+  "tab_data": {
+    "product": "AI product",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668762389850"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668762389850"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63774dc1efc640d0d0813230"
+  },
+  "tab_title": "Summary",
+  "company_id": "63774d85efc640d0d08131e4",
+  "tab_data": {
+    "product": "MENTAL HEALH",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668763073585"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668763073585"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63774f77efc640d0d08132bb"
+  },
+  "tab_title": "Summary",
+  "company_id": "63774effefc640d0d081327c",
+  "tab_data": {
+    "product": "Funding",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668763511509"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668763635714"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63775675efc640d0d0813487"
+  },
+  "tab_title": "Summary",
+  "company_id": "63775652efc640d0d0813447",
+  "tab_data": {
+    "product": "Jackie Robinson 1948 Leaf Rookie Card PSA 8 NM-MT",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668765301141"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668765301141"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63775852efc640d0d0813517"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377583cefc640d0d08134d8",
+  "tab_data": {
+    "product": "igaming platform",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668765778025"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668765778025"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63776807efc640d0d0813b39"
+  },
+  "tab_title": "Summary",
+  "company_id": "637767ecefc640d0d0813b23",
+  "tab_data": {
+    "product": "https://www.phone2.io/",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668769799097"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932395397"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63776b32efc640d0d0813b86"
+  },
+  "tab_title": "Summary",
+  "company_id": "63776a7aefc640d0d0813b59",
+  "tab_data": {
+    "product": "https://kramnutrition.com/collections/all",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668770610832"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932385882"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63777245efc640d0d0813c3c"
+  },
+  "tab_title": "Summary",
+  "company_id": "637771fcefc640d0d0813c06",
+  "tab_data": {
+    "product": "Nutr Machine",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668772421342"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932347326"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63777c57efc640d0d0814173"
+  },
+  "tab_title": "Summary",
+  "company_id": "63777c3cefc640d0d081415c",
+  "tab_data": {
+    "product": "http://www.blinkingowl.com/",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668774999743"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932305270"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377822fefc640d0d0814243"
+  },
+  "tab_title": "Summary",
+  "company_id": "63778219efc640d0d081422c",
+  "tab_data": {
+    "product": "https://www.dieselbeverages.com/shop/",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668776495285"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932243490"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377833defc640d0d0814422"
+  },
+  "tab_title": "Summary",
+  "company_id": "63778328efc640d0d081440b",
+  "tab_data": {
+    "product": "https://www.blackfullness.com/shop",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668776765919"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932216988"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63778627efc640d0d0814665"
+  },
+  "tab_title": "Summary",
+  "company_id": "63778439efc640d0d081464e",
+  "tab_data": {
+    "product": "GOODS",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668777511533"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668777511533"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637786a6efc640d0d081469b"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377868fefc640d0d0814684",
+  "tab_data": {
+    "product": "https://philosopherfoods.com/pages/products",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668777638356"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932192286"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637795c7efc640d0d0814c02"
+  },
+  "tab_title": "Summary",
+  "company_id": "637795acefc640d0d0814beb",
+  "tab_data": {
+    "product": "FINANCING",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668781511076"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668781511076"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63779ed6efc640d0d0814e62"
+  },
+  "tab_title": "Summary",
+  "company_id": "63779dd4efc640d0d0814e22",
+  "tab_data": {
+    "product": "STOCK CARD",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668783830353"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668783830353"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377a935efc640d0d08152e3"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377a8e4efc640d0d08152ac",
+  "tab_data": {
+    "product": "Non-contact patient-monitoring device",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668786485592"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668786512998"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377abecefc640d0d08154fb"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377ab88efc640d0d08154e4",
+  "tab_data": {
+    "product": " Faux fur products",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668787180055"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668787180055"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377afa4efc640d0d0815532"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377af52efc640d0d081551b",
+  "tab_data": {
+    "product": "OxyGeni",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668788132932"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668788132932"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377b5b1efc640d0d081557a"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377b59defc640d0d0815563",
+  "tab_data": {
+    "product": "Watch",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668789681144"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668789681144"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377b877efc640d0d081559b"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377b832efc640d0d0815584",
+  "tab_data": {
+    "product": "Cybersecurity software",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668790391610"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668790424474"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377ba78efc640d0d081578b"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377ba65efc640d0d0815774",
+  "tab_data": {
+    "product": "Camper",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668790904371"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668790904371"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377c3daefc640d0d0815b74"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377c3b2efc640d0d0815b5d",
+  "tab_data": {
+    "product": "Restorative music",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668793306028"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668793306028"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377c515efc640d0d0815bd5"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377c4d9efc640d0d0815bbe",
+  "tab_data": {
+    "product": "EDUCATION",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668793621527"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668793621527"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377c89befc640d0d0815cf8"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377c872efc640d0d0815cbb",
+  "tab_data": {
+    "product": "Neurological testing and clinical support tool",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668794523261"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668794523261"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377c8eeefc640d0d0815d02"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377c883efc640d0d0815cdb",
+  "tab_data": {
+    "product": "DATA",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668794606655"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668794933261"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377cb98efc640d0d0815dac"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377cb80efc640d0d0815d88",
+  "tab_data": {
+    "product": "Meditation Headband",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668795288312"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668795288312"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377cee5efc640d0d0815e4c"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377cec4efc640d0d0815e35",
+  "tab_data": {
+    "product": "Automating and digitizing scientific lab instruments",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668796133883"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668796183452"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377d211efc640d0d08161fe"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377d1f9efc640d0d08161e7",
+  "tab_data": {
+    "product": "https://www.univenture.com/brands/",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668796945397"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932049783"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377d5adefc640d0d0816424"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377d51eefc640d0d08163f9",
+  "tab_data": {
+    "product": "Compressor",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668797869932"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668797869932"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377da1cefc640d0d08164ca"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377da04efc640d0d08164b3",
+  "tab_data": {
+    "product": "https://shop.evaswild.com/",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668799004923"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668931971989"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377da5cefc640d0d08164ea"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377da22efc640d0d08164cd",
+  "tab_data": {
+    "product": "Medical device",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668799068841"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668799068841"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377de29efc640d0d081683f"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377de1aefc640d0d0816828",
+  "tab_data": {
+    "product": "https://theconsciouspet.life/collections/all",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668800041755"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668931862110"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377de49efc640d0d0816856"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377ddfbefc640d0d0816818",
+  "tab_data": {
+    "product": "Art",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668800073843"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668800073843"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377df49efc640d0d08168be"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377df20efc640d0d0816891",
+  "tab_data": {
+    "product": "https://fatleafwater.com/collections/all",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668800329450"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668931459765"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377e03fefc640d0d0816925"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377dfa2efc640d0d08168d5",
+  "tab_data": {
+    "product": "Beverages",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668800575815"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668800575815"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377e23befc640d0d08169f3"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377e22defc640d0d08169dc",
+  "tab_data": {
+    "product": "https://letsriff.com/pages/shop",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668801083086"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668931385607"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377e395efc640d0d0816a36"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377e388efc640d0d0816a1f",
+  "tab_data": {
+    "product": "Paint",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668801429820"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668801429820"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6377e5cdefc640d0d0816a9e"
+  },
+  "tab_title": "Summary",
+  "company_id": "6377e5a7efc640d0d0816a87",
+  "tab_data": {
+    "product": "Rowing machine bundle",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668801997874"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668931240742"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378508fefc640d0d0817fe0"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378506befc640d0d0817fc9",
+  "tab_data": {
+    "product": "Beverage",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668829327573"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668829327573"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637856bdefc640d0d0818277"
+  },
+  "tab_title": "Summary",
+  "company_id": "63785697efc640d0d0818260",
+  "tab_data": {
+    "product": "Anti-inflammatory drugs",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668830909383"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668830909383"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63785969efc640d0d08183f4"
+  },
+  "tab_title": "Summary",
+  "company_id": "63785948efc640d0d08183dd",
+  "tab_data": {
+    "product": "beach",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668831593048"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668831593048"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63785c87efc640d0d081844a"
+  },
+  "tab_title": "Summary",
+  "company_id": "63785c77efc640d0d0818433",
+  "tab_data": {
+    "product": "Gift",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668832391120"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668832391120"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63785d36efc640d0d0818464"
+  },
+  "tab_title": "Summary",
+  "company_id": "63785d0cefc640d0d081844d",
+  "tab_data": {
+    "product": "DRINK",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668832566054"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668832566054"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63785f2cefc640d0d08184bd"
+  },
+  "tab_title": "Summary",
+  "company_id": "63785f09efc640d0d08184a6",
+  "tab_data": {
+    "product": "technology ",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668833068945"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668833068945"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637862a0efc640d0d08184f4"
+  },
+  "tab_title": "Summary",
+  "company_id": "637861e4efc640d0d08184dd",
+  "tab_data": {
+    "product": "VITAMIN",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668833952903"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668833974898"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63786678efc640d0d081852f"
+  },
+  "tab_title": "Summary",
+  "company_id": "63786640efc640d0d0818518",
+  "tab_data": {
+    "product": "APP",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668834936839"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668834936839"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63786c23efc640d0d0818579"
+  },
+  "tab_title": "Summary",
+  "company_id": "63786b19efc640d0d081854f",
+  "tab_data": {
+    "product": "LANGUAGE BOOK",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668836387683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668836387683"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63786da6efc640d0d081859c"
+  },
+  "tab_title": "Summary",
+  "company_id": "63786d5aefc640d0d0818585",
+  "tab_data": {
+    "product": "ROAD MAP APP",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668836774260"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668836774260"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63787a59efc640d0d08185d9"
+  },
+  "tab_title": "Summary",
+  "company_id": "63787070efc640d0d08185c2",
+  "tab_data": {
+    "product": "MINERAL",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668840025540"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668840025540"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63787e26efc640d0d0818862"
+  },
+  "tab_title": "Summary",
+  "company_id": "63787df7efc640d0d081884b",
+  "tab_data": {
+    "product": "MAGIC",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668840998708"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668840998708"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637885a2efc640d0d0818ca7"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378853fefc640d0d0818c90",
+  "tab_data": {
+    "product": "Needle",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668842914248"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668845872902"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63789b2eefc640d0d0819066"
+  },
+  "tab_title": "Summary",
+  "company_id": "63789b1fefc640d0d081904f",
+  "tab_data": {
+    "product": "https://annaboto.com/shopannaboto",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668848430205"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668848430205"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378a51eefc640d0d0819292"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378a50befc640d0d081927b",
+  "tab_data": {
+    "product": "Adjustable Precast Concrete Tops and Utility Vault Lids",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668850974502"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668930623554"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378a78befc640d0d08192c9"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378a771efc640d0d08192b2",
+  "tab_data": {
+    "product": "PowerPanel PVT1",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668851595787"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668930595119"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378b147efc640d0d081954e"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378b128efc640d0d0819537",
+  "tab_data": {
+    "product": "Pineal clock",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668854087251"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668930514789"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378b728efc640d0d08197ab"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378b70defc640d0d0819794",
+  "tab_data": {
+    "product": "Air taxi service",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668855592453"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668855592453"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378bbe4efc640d0d08198bf"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378bb03efc640d0d081985b",
+  "tab_data": {
+    "product": "Baby Cloth",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668856804322"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668856804322"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378bf1befc640d0d0819ef5"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378bf00efc640d0d0819ede",
+  "tab_data": {
+    "product": "https://fanownedclub.square.site/",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668857627249"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668857644494"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378c0b2efc640d0d0819f68"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378c054efc640d0d0819f3c",
+  "tab_data": {
+    "product": "Automotive, aerospace, 5G, LED, and solar",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668858034963"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668858034963"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378c301efc640d0d0819fcb"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378c2f0efc640d0d0819fb3",
+  "tab_data": {
+    "product": "Vehicle",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668858625675"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668858625675"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378c363efc640d0d0819ff2"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378c352efc640d0d0819fd4",
+  "tab_data": {
+    "product": "https://megaraentertainment.com/#brands",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668858723395"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668858723395"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378c6b7efc640d0d081a3d6"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378c6a1efc640d0d081a3bf",
+  "tab_data": {
+    "product": "Comics",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668859575423"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668859575423"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378cca5efc640d0d081a902"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378cc94efc640d0d081a8eb",
+  "tab_data": {
+    "product": "Comics",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668861093941"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668861093941"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378ce02efc640d0d081a923"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378cde1efc640d0d081a90c",
+  "tab_data": {
+    "product": "Proteins, vitamins, and other nutritional supplements",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668861442391"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668861442391"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378cecdefc640d0d081a92d"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378c6f8efc640d0d081a40e",
+  "tab_data": {
+    "product": "Pollie",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668861645134"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668861645134"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378d0d7efc640d0d081a973"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378d08defc640d0d081a95c",
+  "tab_data": {
+    "product": "CAR",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668862167565"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668862167565"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378d68befc640d0d081a9b7"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378d634efc640d0d081a9a0",
+  "tab_data": {
+    "product": "BRAND",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668863627944"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668863627944"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378e2c8efc640d0d081adf4"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378e287efc640d0d081addd",
+  "tab_data": {
+    "product": "personalization",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668866760242"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668866760242"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378e5e1efc640d0d081ae2c"
+  },
+  "tab_title": "Summary",
+  "company_id": "6378e566efc640d0d081ae15",
+  "tab_data": {
+    "product": "health CARE",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668867553115"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668867553115"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379008cefc640d0d081b7f6"
+  },
+  "tab_title": "Summary",
+  "company_id": "63790052efc640d0d081b7df",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668874380518"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668874380518"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637902e7efc640d0d081b817"
+  },
+  "tab_title": "Summary",
+  "company_id": "637902d4efc640d0d081b800",
+  "tab_data": {
+    "product": "Robot",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668874983198"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668874983198"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637906ddefc640d0d081b9c3"
+  },
+  "tab_title": "Summary",
+  "company_id": "637906b8efc640d0d081b9ac",
+  "tab_data": {
+    "product": "Ski and Snowboard Platform",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668875997845"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668875997845"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63790980efc640d0d081c116"
+  },
+  "tab_title": "Summary",
+  "company_id": "63790970efc640d0d081c0ff",
+  "tab_data": {
+    "product": "wine",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668876672676"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668876681346"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63790ba5efc640d0d081c13a"
+  },
+  "tab_title": "Summary",
+  "company_id": "63790b6befc640d0d081c123",
+  "tab_data": {
+    "product": "IoT anti-theft products",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668877221194"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668877221194"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63791005efc640d0d081ccfe"
+  },
+  "tab_title": "Summary",
+  "company_id": "63790fd3efc640d0d081cbcf",
+  "tab_data": {
+    "product": "Outdoor Office Service",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668878341117"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668878341117"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63791387efc640d0d081da2d"
+  },
+  "tab_title": "Summary",
+  "company_id": "63791378efc640d0d081da16",
+  "tab_data": {
+    "product": "Art",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668879239683"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668879239683"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637914baefc640d0d081da4e"
+  },
+  "tab_title": "Summary",
+  "company_id": "63791499efc640d0d081da37",
+  "tab_data": {
+    "product": "End-to-end business ecosystem",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668879546624"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668879546624"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63791643efc640d0d081dbfb"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379162befc640d0d081dbe4",
+  "tab_data": {
+    "product": "https://arolucha.com/store-2",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668879939483"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668879939483"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637916b9efc640d0d081dd4e"
+  },
+  "tab_title": "Summary",
+  "company_id": "63791688efc640d0d081dc12",
+  "tab_data": {
+    "product": "Medical Laboratory Software Platforms",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668880057296"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668880057296"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379186eefc640d0d081de3c"
+  },
+  "tab_title": "Summary",
+  "company_id": "63791854efc640d0d081de25",
+  "tab_data": {
+    "product": "Cooking product",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668880494795"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668880494795"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637919c8efc640d0d081ded0"
+  },
+  "tab_title": "Summary",
+  "company_id": "63791992efc640d0d081deb9",
+  "tab_data": {
+    "product": "http://temeculafc.com/shop/",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668880840546"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668880935856"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63791b44efc640d0d081df36"
+  },
+  "tab_title": "Summary",
+  "company_id": "63791b27efc640d0d081df1f",
+  "tab_data": {
+    "product": "End-to end-recruitment lifecycle",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668881220268"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668881220268"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63791d4cefc640d0d081df77"
+  },
+  "tab_title": "Summary",
+  "company_id": "63791d2aefc640d0d081df60",
+  "tab_data": {
+    "product": "https://homeshake.com/browse-homes",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668881740276"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668881740276"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63792b44efc640d0d081e183"
+  },
+  "tab_title": "Summary",
+  "company_id": "63792b32efc640d0d081e16c",
+  "tab_data": {
+    "product": "https://modwalla.com/#catalog",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668885316922"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668885316922"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63793483efc640d0d081e878"
+  },
+  "tab_title": "Summary",
+  "company_id": "63793458efc640d0d081e861",
+  "tab_data": {
+    "product": "https://drinklivewire.com/collections/livewire-drinks",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668887683437"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668887683437"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637936f9efc640d0d081e8fc"
+  },
+  "tab_title": "Summary",
+  "company_id": "637936e1efc640d0d081e8e5",
+  "tab_data": {
+    "product": "https://drivejoulez.com/#/our-fleet",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668888313155"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668888313155"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63793c70efc640d0d081eba4"
+  },
+  "tab_title": "Summary",
+  "company_id": "63793be9efc640d0d081e9fd",
+  "tab_data": {
+    "product": "https://staysafeconcrete.com/concrete-mix/",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668889712463"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668889712463"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379a16aefc640d0d081fba5"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379a0deefc640d0d081fb8e",
+  "tab_data": {
+    "product": "Air pollution capture technology",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668915562475"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668915562475"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379a3edefc640d0d081fbe2"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379a3a1efc640d0d081fbcb",
+  "tab_data": {
+    "product": "innovative products",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668916205041"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668916205041"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379a955efc640d0d081fc22"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379a8f6efc640d0d081fc0b",
+  "tab_data": {
+    "product": "Medical scrub",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668917589808"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668917589808"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379afb0efc640d0d081fc77"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379af6befc640d0d081fc60",
+  "tab_data": {
+    "product": "Healthcare product",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668919216551"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668919216551"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379b22cefc640d0d081fcc3"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379b21defc640d0d081fcac",
+  "tab_data": {
+    "product": "Coffee",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668919852389"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668919852389"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379b826efc640d0d081fd41"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379b7c4efc640d0d081fd2a",
+  "tab_data": {
+    "product": "cybersecurity platform",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668921382423"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668921382423"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379bca9efc640d0d08200ae"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379bc68efc640d0d0820097",
+  "tab_data": {
+    "product": "Filmmaker",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668922537380"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668922537380"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379bda9efc640d0d08200d1"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379bd7fefc640d0d08200ba",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668922793714"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668922793714"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379c064efc640d0d0820102"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379c03aefc640d0d08200eb",
+  "tab_data": {
+    "product": "Medicine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668923492264"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668923492264"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379c336efc640d0d0820134"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379c326efc640d0d082011d",
+  "tab_data": {
+    "product": "Comics",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668924214767"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668924214767"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379e2a2efc640d0d08210ad"
+  },
+  "tab_title": "Summary",
+  "company_id": "63777fdfefc640d0d08141cd",
+  "tab_data": {
+    "product": "https://www.dieselbeverages.com/shop/",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668932258450"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932258450"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379e486efc640d0d08212e3"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379e29cefc640d0d082108c",
+  "tab_data": {
+    "product": "financial institutions",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668932742814"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668932742814"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379e7eaefc640d0d0821383"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379e786efc640d0d082136c",
+  "tab_data": {
+    "product": "delivery management",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668933610303"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668933610303"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379eac8efc640d0d0821664"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379ea83efc640d0d08215cb",
+  "tab_data": {
+    "product": " pharmacy",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668934344427"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668934344427"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379ee62efc640d0d0821b4a"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379ee33efc640d0d0821b25",
+  "tab_data": {
+    "product": "HOME design",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668935266206"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668935266206"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379f0daefc640d0d0821ce1"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379f0c3efc640d0d0821ca2",
+  "tab_data": {
+    "product": "Spirits",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668935898543"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668935898543"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379f1aaefc640d0d0821d63"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379f195efc640d0d0821d24",
+  "tab_data": {
+    "product": "Motor Vehicle Manufacturing",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668936106193"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668936106193"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379f4dcefc640d0d0821ea9"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379f4a9efc640d0d0821e6a",
+  "tab_data": {
+    "product": "E-commerce platform",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668936924306"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668936924306"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379f757efc640d0d0821f6f"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379f731efc640d0d0821f30",
+  "tab_data": {
+    "product": "Entertainment Providers",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668937559428"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668937559428"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379fbc3efc640d0d0822029"
+  },
+  "tab_title": "Summary",
+  "company_id": "6379fb4defc640d0d0822012",
+  "tab_data": {
+    "product": "Water Technology",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668938691058"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668938691058"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a06acefc640d0d0822256"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a0505efc640d0d08221a6",
+  "tab_data": {
+    "product": "Biotechnology Research",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668941484076"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668941516259"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a06d8efc640d0d0822297"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a0696efc640d0d0822215",
+  "tab_data": {
+    "product": "Biotechnology Research",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668941528396"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668941528396"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a0888efc640d0d0822304"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a0874efc640d0d08222c5",
+  "tab_data": {
+    "product": "Biotechnology Research",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668941960139"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668941960139"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a0b2cefc640d0d0822343"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a0acfefc640d0d082232c",
+  "tab_data": {
+    "product": "patient’s  treatment and recovery",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668942636648"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668942636648"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a0db4efc640d0d0822388"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a0d87efc640d0d0822371",
+  "tab_data": {
+    "product": " Aircraft",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668943284844"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668943342204"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a1547efc640d0d08223c2"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a1503efc640d0d08223ab",
+  "tab_data": {
+    "product": "FOOD",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668945223505"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668945223505"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a3507efc640d0d082274d"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a34c7efc640d0d0822736",
+  "tab_data": {
+    "product": "COOK",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668953351176"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668953351176"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a39c4efc640d0d08227a0"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a378cefc640d0d082276d",
+  "tab_data": {
+    "product": "COFFEE SHOP",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668954564596"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668954564596"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a42ebefc640d0d08227d1"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a42b0efc640d0d08227ba",
+  "tab_data": {
+    "product": "treatment",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668956907956"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668956907956"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a467fefc640d0d0822836"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a4562efc640d0d0822812",
+  "tab_data": {
+    "product": "Retirement Income article",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668957823282"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668957823282"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a4924efc640d0d0822a1d"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a484aefc640d0d082284f",
+  "tab_data": {
+    "product": "SaaS",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668958500843"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668958500843"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a4aecefc640d0d0822a4d"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a4adbefc640d0d0822a36",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668958956688"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668958956688"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a4c01efc640d0d0822a68"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a4bd7efc640d0d0822a50",
+  "tab_data": {
+    "product": "PIZZA",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668959233217"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668959233217"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a4db8efc640d0d0822ab7"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a4d7befc640d0d0822aa0",
+  "tab_data": {
+    "product": "Art",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668959672995"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668959672995"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a522cefc640d0d0822cd4"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a51daefc640d0d0822c8f",
+  "tab_data": {
+    "product": "Retail marketplace app",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668960812472"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668960812472"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a55d7efc640d0d0822d0b"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a55c0efc640d0d0822cf4",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668961751515"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668961751515"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a56adefc640d0d0822d2c"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a569aefc640d0d0822d15",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668961965555"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668961965555"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a5784efc640d0d0822d4d"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a576defc640d0d0822d36",
+  "tab_data": {
+    "product": "Watch",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668962180081"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668962180081"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a586aefc640d0d0822d6e"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a584fefc640d0d0822d57",
+  "tab_data": {
+    "product": "Watch",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668962410609"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668962410609"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a59a1efc640d0d0822d9c"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a598eefc640d0d0822d85",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668962721340"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668962721340"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a5acfefc640d0d0822dbd"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a5aaeefc640d0d0822da6",
+  "tab_data": {
+    "product": "Scientific and pharmaceutical equipment.",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668963023030"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668963023030"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a6122efc640d0d0822fe5"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a60ffefc640d0d0822fce",
+  "tab_data": {
+    "product": "Wine",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668964642955"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668964705663"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637a6292efc640d0d082337c"
+  },
+  "tab_title": "Summary",
+  "company_id": "637a6283efc640d0d0823365",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1668965010489"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668965010489"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b058aefc640d0d0823b3c"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b050cefc640d0d0823b06",
+  "tab_data": {
+    "product": "Self-heating beverage packaging",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669006730205"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669006765490"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b0bc0efc640d0d0824dba"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b0b50efc640d0d0824da2",
+  "tab_data": {
+    "product": "Media maker",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669008320465"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669008320465"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b0f5eefc640d0d0825a13"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b0f50efc640d0d08259e4",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669009246472"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669009246472"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b0ff4efc640d0d0825e3e"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b0c43efc640d0d0824dc1",
+  "tab_data": {
+    "product": "online courses",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669009396605"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669009407433"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b105fefc640d0d0825e5e"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b1031efc640d0d0825e47",
+  "tab_data": {
+    "product": "Art",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669009503427"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669009503427"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b1173efc640d0d082645d"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b1164efc640d0d0826446",
+  "tab_data": {
+    "product": "Entertainment",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669009779940"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669009779940"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b13d855c888fb5b942057"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b135aefc640d0d0827140",
+  "tab_data": {
+    "product": "DIGITAL COIN",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669010392908"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669010392908"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b16f255c888fb5b942383"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b167d55c888fb5b942371",
+  "tab_data": {
+    "product": "SAAS",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669011186319"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669011191309"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b1a5055c888fb5b944104"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b19fb55c888fb5b9440f2",
+  "tab_data": {
+    "product": "HOME DECORATION",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669012048921"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669012048921"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b1f3255c888fb5b945e02"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b1f0d55c888fb5b945deb",
+  "tab_data": {
+    "product": "Sports and Fitness App",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669013298712"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669013298712"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b211c55c888fb5b945e3e"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b20c755c888fb5b945e27",
+  "tab_data": {
+    "product": "Visionary patent pending digital toolkit",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669013788547"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669013788547"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b233855c888fb5b946163"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b232c55c888fb5b946116",
+  "tab_data": {
+    "product": "Water",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669014328709"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669014328709"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b25c255c888fb5b946590"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b25a155c888fb5b946440",
+  "tab_data": {
+    "product": "Camping and emergency preparation trailers",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669014978802"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669014978802"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b398355c888fb5b947d44"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b390a55c888fb5b947d32",
+  "tab_data": {
+    "product": "parenthood",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669020035853"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669020035853"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b3a2655c888fb5b947d64"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b39f655c888fb5b947d4d",
+  "tab_data": {
+    "product": "rental automation , property management, and hospitality services",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669020198311"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669020198311"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b3ebd55c888fb5b9483be"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b3ea655c888fb5b9483a7",
+  "tab_data": {
+    "product": "Web3 application",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669021373912"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669021373912"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b407e55c888fb5b9483fb"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b405e55c888fb5b9483e4",
+  "tab_data": {
+    "product": "Healthcare App",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669021822155"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669021822155"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b429b55c888fb5b948439"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b428e55c888fb5b948422",
+  "tab_data": {
+    "product": "Movie",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669022363195"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669022363195"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b44ff55c888fb5b94848c"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b449e55c888fb5b948455",
+  "tab_data": {
+    "product": "esports and gaming events",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669022975126"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669022975126"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b473255c888fb5b9484cb"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b471b55c888fb5b9484b4",
+  "tab_data": {
+    "product": "App",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669023538257"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669023538257"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b4c3f55c888fb5b94852a"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b4c2b55c888fb5b948513",
+  "tab_data": {
+    "product": "Metaverse and NFT Analytics",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669024831562"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669024831562"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b4e2955c888fb5b94855e"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b4e1955c888fb5b948547",
+  "tab_data": {
+    "product": "Wine",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669025321786"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669025321786"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b4ef755c888fb5b94857f"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b4ed955c888fb5b948568",
+  "tab_data": {
+    "product": "Snacks",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669025527177"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669025527177"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b508055c888fb5b9485b1"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b505a55c888fb5b94859a",
+  "tab_data": {
+    "product": "Winery",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669025920781"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674145816649"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b513c55c888fb5b9485d2"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b512f55c888fb5b9485bb",
+  "tab_data": {
+    "product": "comprehensive protection solutions",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669026108586"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669026108586"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b535755c888fb5b948605"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b531c55c888fb5b9485ee",
+  "tab_data": {
+    "product": "KurumaNFT Inc. produce and market automotive NFTs and KurumaCards™ as digital car collectibles.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669026647118"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674145025682"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b573955c888fb5b94866a"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b56db55c888fb5b94863f",
+  "tab_data": {
+    "product": "Offering a channel for current college athletes to mentor, coach, and provide content for aspiring college athletes Sports Training",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669027641514"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669567825165"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b5a0f55c888fb5b9486a8"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b59ec55c888fb5b948691",
+  "tab_data": {
+    "product": "pre-revenue SaaS fintech platform",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669028367420"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669028367420"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b5b9955c888fb5b948994"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b5b8a55c888fb5b948802",
+  "tab_data": {
+    "product": "Software",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669028761667"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669028761667"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b5ce355c888fb5b948dc2"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b5cc755c888fb5b948dab",
+  "tab_data": {
+    "product": "Chateau Haut Brion is one of the legendary First Growths in Bordeaux and considered the most distinct, due to its illustrious history, distinct flavor profile and unusual bottle shape.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669029091735"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674144274876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637b9e8b55c888fb5b94ae15"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b785255c888fb5b949536",
+  "tab_data": {
+    "product": "Shopper Behavior AI for brands and retailers. Mediar built a software platform that connects to existing security video cameras inside the stores and harvests anonymous shopper behavior data in real-time.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669045899348"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674142736088"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ba20855c888fb5b94ae58"
+  },
+  "tab_title": "Summary",
+  "company_id": "637ba1c655c888fb5b94ae41",
+  "tab_data": {
+    "product": "The Wallet App, The Software Developer Kit (SDK), Easel Minter. Pylons is an NFT blockchain that focuses on user and developer experiences first, and the internal crypto enthusiast market second.",
+    "daily_users": "",
+    "partnership": "Huobi Ventures, Op Crypto, Struck Capital, DFG, CMS",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669046792860"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674055538292"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c58e555c888fb5b94bc50"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c587155c888fb5b94bc1f",
+  "tab_data": {
+    "product": "Automatic is a paradigm shift for used car financing companies and auto dealerships. Our next-generation platform streamlines the entire loan process, helps dealerships boost vehicle sales by reducing the funding and titling, and maintains transparency at every step. ",
+    "daily_users": "55,000 independent dealerships nationwide",
+    "partnership": "Over 75+ Finance & Insurance agents will shortly begin signing up dealerships on Automatic’s behalf",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669093605443"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674056771463"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c5b9f55c888fb5b94bc86"
+  },
+  "tab_title": "Summary",
+  "company_id": "637b8b1255c888fb5b94a9bd",
+  "tab_data": {
+    "product": "The simplest platform for creating, teaching, and selling online courses",
+    "daily_users": "1525",
+    "partnership": "Founder institute, Founder lab, Microsoft for startups, AWS EdStart Member",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669094303106"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674020922788"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c5e4a55c888fb5b94bcca"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c5e1c55c888fb5b94bcb3",
+  "tab_data": {
+    "product": "Providing sustainable wellness to everyone, Our products are formulated using safe, clean, and performance-based ingredients. We aim to address the child as a whole and have created a well-rounded wellness regimen to maintain, boost and support healthy living. ",
+    "daily_users": "",
+    "partnership": "Retail partners: CVS, Amazon, Whole Foods, Saks 5th Ave, Goop & more",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669094986724"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673991271126"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c609955c888fb5b94c090"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c607055c888fb5b94c079",
+  "tab_data": {
+    "product": "Cere’s blockchain innovations, along with its Decentralized Data Cloud and a suite of enterprise SaaS solutions, have been built in alignment with blockchain platform Polkadot to bring clusters of enterprise-focused interoperable networks and solutions into the substantial blockchain ecosystems.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669095577209"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674057913996"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c643455c888fb5b94c0c7"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c63e155c888fb5b94c0b0",
+  "tab_data": {
+    "product": "GARI token offering—enabling crypto-powered creator economy on the Chingari App. Chingari is a short-video social media app with over 80M downloads",
+    "daily_users": "3,500,000",
+    "partnership": "Galaxy, Alameda, NGC, Coinfund, Kraken, Valor, Solana",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669096500236"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674058351088"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c671855c888fb5b94c0f6"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c66cc55c888fb5b94c0df",
+  "tab_data": {
+    "product": "The most delicious snack on the planet is now vegan, clean & sustainable. Nostalgic snacking that’s better for you and better for the planet",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669097240300"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674073196521"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c698f55c888fb5b94c12f"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c692f55c888fb5b94c118",
+  "tab_data": {
+    "product": "Fine wine and whiskey: a potentially profitable pairing for your portfolio",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669097871285"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673987737526"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c6bf055c888fb5b94c15e"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c6b6955c888fb5b94c147",
+  "tab_data": {
+    "product": "Innovation for a market desperate for change. Real infrastructure around QUALITY connection",
+    "daily_users": "75,000+ users ",
+    "partnership": "20+ rev-share partners incl. Meetup & C-Suite Network",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669098480513"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673985197619"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c6e8e55c888fb5b94c195"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c6e4e55c888fb5b94c17e",
+  "tab_data": {
+    "product": "Bowr is building a managed marketplace and SaaS solution. That is helping manufacturers build amazing products that are sustainable, customizable, and one-of-a-kind for customers—without any middlemen.",
+    "daily_users": "",
+    "partnership": "Partnering with 215 manufacturers to directly serve businesses & homeowners. Customers include Meta, Airbnb, Google, Microsoft, Air Asia, and Starbucks",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669099150746"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673984338691"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c716755c888fb5b94c1cf"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c713d55c888fb5b94c1b8",
+  "tab_data": {
+    "product": "With living technology, you get the photosynthetic benefit of over 25 plants. That means more oxygen and less CO2 in the places you live your life. Connect with nature through an elegant biophilic design. Maintain harmony with your existing plants. The aerium produces a natural fertilizer so it lives symbiotically with the plants you already love.",
+    "daily_users": "",
+    "partnership": "Alpha Lab Gear, Techstars",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669099879234"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674141619732"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c74d155c888fb5b94c234"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c747b55c888fb5b94c21d",
+  "tab_data": {
+    "product": "Ingenii is a hybrid data engineering platform that provides seamless access to quantum computation, building on the full stack quantum providers. ",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669100753294"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673982486738"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c8567c82350f3f6892ffd"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c8515c82350f3f6892fe6",
+  "tab_data": {
+    "product": "A set of new standards with the Maestro Escalator Handrail Cleaning System. A clever device, splits into 2 units that can be easily attached to both the handrails after the microfiber cleaning pads are properly prepared with our tested and approved cleaning solutions. It can achieve regular maintenance cleaning of both handrails in just 15 minutes.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669104999680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674077052108"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c8b1dc82350f3f6893d24"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c8926c82350f3f6893cf7",
+  "tab_data": {
+    "product": "The Neuro-i SS-OCT. Optical Coherence Tomography. ",
+    "daily_users": "",
+    "partnership": "CVS Munute Clinic, Leica, Genetech, Zeiss",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669106461229"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673947737724"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c9323c82350f3f6893d79"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c92c5c82350f3f6893d62",
+  "tab_data": {
+    "product": "Golightly is the first private home-sharing and vacation rental club for women.",
+    "daily_users": "Fast growth to over 17K members and 38K listings in 100 countries",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669108515547"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674078965959"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c95fdc82350f3f6893dbe"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c95b6c82350f3f6893da7",
+  "tab_data": {
+    "product": "TIBU Health has created a tech platform that bridges the physical and digital divide in health thereby allowing patients to access over 300 healthcare services at a time and location of their choosing. ",
+    "daily_users": "",
+    "partnership": "15 insurance partners (Aetna, Fidelity, APA, Bupa, AXA, Allianz & more)",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669109245922"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674141881195"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c982fc82350f3f6893dfd"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c9811c82350f3f6893de6",
+  "tab_data": {
+    "product": "Ultra Low Carb, Ketogenic Foods. Brownie Mix, Pancake Mix, Crunchy Granola, Keto Flatbread and Pizza Mix, and more.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669109807331"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673884816858"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c9b24c82350f3f6893e34"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c9a9dc82350f3f6893e1d",
+  "tab_data": {
+    "product": "Damien Hirst is Artory/Winston. The expert team at Artory/Winston monitors the market daily for ideal opportunities to sell the artwork, and you can benefit if the artwork sells at a higher price.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669110564670"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673883607470"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c9d9bc82350f3f6894068"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c9d68c82350f3f6894051",
+  "tab_data": {
+    "product": "Field Day is a single platform that allows parents to explore activities for children of all ages and interests. They can compare activities and check ratings to see what other parents are raving about and read their reviews.",
+    "daily_users": "Over 1,000+ app downloads as of Sep 2022. Over $400,000+ in transactions as of Sep 2022",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669111195325"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674054904517"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ca0a9c82350f3f68940ab"
+  },
+  "tab_title": "Summary",
+  "company_id": "637ca03dc82350f3f6894080",
+  "tab_data": {
+    "product": "Solvpath and its products were developed with both our clients and their customers in mind. Using technology to bypass human interaction in basic and even complex consumer tasks, meant a user-friendly experience was a must.",
+    "daily_users": "Successfully resolved over 1M+ customer support requests",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669111977156"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673879190923"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ca3a2c82350f3f68950bd"
+  },
+  "tab_title": "Summary",
+  "company_id": "637ca31bc82350f3f68950a6",
+  "tab_data": {
+    "product": "Free Spirits are award-winning, clean spirits, crafted for a healthier lifestyle without compromise.",
+    "daily_users": "",
+    "partnership": "Great Lakes Wines & Spirits, Heritage Wine & Spirits",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669112738530"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673878147748"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ca732c82350f3f68961bd"
+  },
+  "tab_title": "Summary",
+  "company_id": "",
+  "tab_data": {
+    "product": "FINANCIAL",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669113650071"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669113650071"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d0942c82350f3f6897156"
+  },
+  "tab_title": "Summary",
+  "company_id": "637d0930c82350f3f689713f",
+  "tab_data": {
+    "product": "Vitaclean is about more than just creating a spa-like environment for your bathroom (although it does that, too). Vitaclean uses a three-part filtration system to filter your water, capture pipe rust and dirt, and turn your shower into a scented oasis that your skin can feel the difference with after just one shower.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669138754251"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673808439310"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d0b0ac82350f3f68975a6"
+  },
+  "tab_title": "Summary",
+  "company_id": "637d0aeec82350f3f689758f",
+  "tab_data": {
+    "product": "Computers and Electronics Manufacturing",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669139210408"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669139210408"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d1078c82350f3f6897678"
+  },
+  "tab_title": "Summary",
+  "company_id": "637d1069c82350f3f6897661",
+  "tab_data": {
+    "product": "Oncolyze, a pre-clinical stage biopharmaceutical company that is developing a class of therapeutics to treat cancer in a new and disruptive way.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669140600940"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673806983539"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d120dc82350f3f68978bc"
+  },
+  "tab_title": "Summary",
+  "company_id": "637d11fac82350f3f68978a5",
+  "tab_data": {
+    "product": "Food and Beverage",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669141005430"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669141005430"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637d136dc82350f3f6897911"
+  },
+  "tab_title": "Summary",
+  "company_id": "637d135ec82350f3f68978fa",
+  "tab_data": {
+    "product": "Consumer Services",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669141357485"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669141357485"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637dd6cb52b2b8ea8d1ecd00"
+  },
+  "tab_title": "Summary",
+  "company_id": "637dd60d52b2b8ea8d1ecce9",
+  "tab_data": {
+    "product": "Hot-from-the-oven small batch Croissants & Wild Sourdough.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669191371068"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673877141914"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637dd97d52b2b8ea8d1ecf6b"
+  },
+  "tab_title": "Summary",
+  "company_id": "637dd94052b2b8ea8d1ecf41",
+  "tab_data": {
+    "product": "Local focused, malt forward, innovative brewery with core offerings in proven styles, in addition to creative small batch brews",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669192061166"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673857763289"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637ddc4b52b2b8ea8d1ecfc6"
+  },
+  "tab_title": "Summary",
+  "company_id": "637ddc1952b2b8ea8d1ecfaf",
+  "tab_data": {
+    "product": "Retail bakery specializing in fresh fare made from scratch. In the expansion outlined here, we will continue to expand our quick serve offerings and wholesale bakery sector and add a liquor license.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669192779866"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673857102062"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637de2cd52b2b8ea8d1ed01a"
+  },
+  "tab_title": "Summary",
+  "company_id": "637de2b852b2b8ea8d1ed003",
+  "tab_data": {
+    "product": "Injaga Offer a user-friendly experience with knowledgeable staff and a wide variety of high-quality cannabis and non-cannabis CBD products.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669194445356"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673856321479"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e53d652b2b8ea8d1ee855"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e53ba52b2b8ea8d1ee83c",
+  "tab_data": {
+    "product": "Safety Compliance Facility that offers cannabis testing services in the State of Michigan. Offering a one-stop solution where our customers can be guaranteed they are in full compliance with all regulatory requirements.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669223382961"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673812658683"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e79dd52b2b8ea8d1eeaa4"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e79c852b2b8ea8d1eea8d",
+  "tab_data": {
+    "product": "Cannabis Cultivators",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669233117646"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673877614087"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e7b5d52b2b8ea8d1eeadc"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e7b5652b2b8ea8d1eeac5",
+  "tab_data": {
+    "product": "Backbeat Brewing has become a cornerstone of the North Shore Craft Brewery scene. We built our taproom to serve as a community gathering place for the greater Beverly community.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669233501710"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669978903404"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e7ce352b2b8ea8d1eeb2d"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e7cda52b2b8ea8d1eeb16",
+  "tab_data": {
+    "product": "Cocktail Bar",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669233891462"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673811190713"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e808f52b2b8ea8d1eebb3"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e7f7d52b2b8ea8d1eeb81",
+  "tab_data": {
+    "product": "A fourth-generation family owned, and operated business in the heart of the high-country. We special",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669234831175"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673809653496"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e815b52b2b8ea8d1eebef"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e80f752b2b8ea8d1eebbf",
+  "tab_data": {
+    "product": "It’s a place where children can come and play freely, use their imaginations while their adults relax, drink gourmet coffee or play along with their child.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669235035256"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673805900344"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e826852b2b8ea8d1eec41"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e824552b2b8ea8d1eec09",
+  "tab_data": {
+    "product": "Flying Leap was founded as an Arizona farming company, originally envisioned as a wine grape grower in southeastern Arizona with a mission to supply quality wine grapes to the nascent Arizona wine industry. The company expanded into wine production in 2013 and distillation of spirits in 2016. A wholesale program was started in 2018, and in 2021-2022 the company began a substantial production expansion phase to sustain growth in its regional wholesale program.Vineyards & Distillery",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669235304272"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669978382511"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e839a52b2b8ea8d1eec8c"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e838752b2b8ea8d1eec75",
+  "tab_data": {
+    "product": "Locally-owned and operated Massachusetts legal cannabis delivery company looking to share our love and knowledge of cannabis with as many adult recreational users as possible.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669235610540"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673805383419"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e84e052b2b8ea8d1eecda"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e84cb52b2b8ea8d1eecc3",
+  "tab_data": {
+    "product": "Cannabis has been an industry previously ridden with unjust laws and race-based disparities in treatment. Since becoming legalized, it has become a multi-billion dollar industry. We believe that those who have been disproportionately locked up for cannabis should not be locked out of profits.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669235936478"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673805002081"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637e874a52b2b8ea8d1eed77"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e872b52b2b8ea8d1eed41",
+  "tab_data": {
+    "product": "Social-Equity-owned cannabis company, located in Danville, Illinois. ",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669236554542"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674026412689"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389d17fc37d72c0715700d4"
+  },
+  "tab_title": "Summary",
+  "company_id": "637e862652b2b8ea8d1eed07",
+  "tab_data": {
+    "product": "Connecticut's first all-inclusive Libation Library featuring locally-made Liquors, Wines, Beers, Meads, Ciders & Soda Pop.",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669976447644"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673803693660"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c0ef8bc37d72c0716a4333"
+  },
+  "tab_title": "Summary",
+  "company_id": "63774989efc640d0d0812d12",
+  "tab_data": {
+    "product": "eCommerce site with  4,000+ sustainable and ethical products from toilet paper to jewelry, constantly adding more. Simple Switch is the online marketplace for ethical and sustainable shopping. We make it easier for US consumers to shop in alignment with their values, and have products shipped to their door that make a positive impact.",
+    "daily_users": "",
+    "partnership": "60+ Suppliers and B2B clients",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673588619620"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673588802226"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c130a3273684a80a64f6be"
+  },
+  "tab_title": "Summary",
+  "company_id": "6354261914afad5ce8c9645f",
+  "tab_data": {
+    "product": "Safety Compliance Facility that offers cannabis testing services in the State of Michigan. Full-service Safety Compliance Facility (testing lab)",
+    "daily_users": "",
+    "partnership": "",
+    "patents": "no"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673605283766"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673774201696"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c441af273684a80a6620e2"
+  },
+  "tab_title": "Summary",
+  "company_id": "637d1464c82350f3f6897930",
+  "tab_data": {
+    "product": "Zeen by Exokinetics Inc. offers freedom, independence and confidence to people suffering from mobility loss, allowing users to sit, rise-up and move, while continuously being supported and without requiring motors.",
+    "patents": "yes",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673806255757"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673806255757"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c664df273684a80a66e076"
+  },
+  "tab_title": "Summary",
+  "company_id": "637c8e79c82350f3f6893d45",
+  "tab_data": {
+    "product": "Building from wagers to rewards cards, e-commerce, and more. Our initial customer acquisition engine, built to solve pain points around coordinating, scoring, and settling real-money on-course matches.",
+    "patents": "no",
+    "daily_users": "",
+    "partnership": ""
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673946335929"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673946335929"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8e364273684a80a67cc99"
+  },
+  "tab_title": "Summary",
+  "company_id": "63c8e2b3273684a80a67cbfb",
+  "tab_data": {
+    "product": "product title",
+    "daily_users": "5",
+    "partnership": "1",
+    "patents": "yes"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674109796856"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674109833687"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "6351ecc514afad5ce8c9596e"
+  },
+  "name": "Republic",
+  "logo": {
+    "data": "https://crowdafacepi.s3.amazonaws.com/platforms/6351ecc514afad5ce8c9596e",
+    "contentType": "image/jpeg"
+  },
+  "companies": [],
+  "isActive": "yes",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666313413644"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666316552807"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6352ca3814afad5ce8c95d0b"
+  },
+  "name": "WeFunder",
+  "logo": {
+    "data": "https://crowdafacepi.s3.amazonaws.com/platforms/6352ca3814afad5ce8c95d0b",
+    "contentType": "image/png"
+  },
+  "companies": [],
+  "isActive": "yes",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666370104996"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666370104996"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6352cad614afad5ce8c95d20"
+  },
+  "name": "startengine",
+  "logo": {
+    "data": "https://crowdafacepi.s3.amazonaws.com/platforms/6352cad614afad5ce8c95d20",
+    "contentType": "image/jpeg"
+  },
+  "companies": [],
+  "isActive": "yes",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666370262317"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666370262317"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353521f14afad5ce8c95f32"
+  },
+  "name": "Seedinvest",
+  "logo": {
+    "data": "https://crowdafacepi.s3.amazonaws.com/platforms/6353521f14afad5ce8c95f32",
+    "contentType": "image/jpeg"
+  },
+  "companies": [],
+  "isActive": "yes",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666404895853"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666404940468"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63541e7214afad5ce8c963f5"
+  },
+  "name": "Mainvest",
+  "logo": {
+    "data": "https://crowdafacepi.s3.amazonaws.com/platforms/63541e7214afad5ce8c963f5",
+    "contentType": "image/jpeg"
+  },
+  "companies": [],
+  "isActive": "yes",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666457202424"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669139004513"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8e1f8273684a80a67cba4"
+  },
+  "name": "Crescentek",
+  "logo": {
+    "data": "https://crowdafacepi.s3.amazonaws.com/platforms/63c8e1f8273684a80a67cba4",
+    "contentType": "image/png"
+  },
+  "companies": [],
+  "isActive": "yes",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674109432528"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674110190566"
+    }
+  },
+  "__v": 0
+}]

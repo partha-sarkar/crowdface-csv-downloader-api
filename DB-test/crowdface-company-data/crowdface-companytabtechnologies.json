@@ -1,0 +1,1241 @@
+[{
+  "_id": {
+    "$oid": "6351f03e14afad5ce8c95996"
+  },
+  "tab_title": "Technology",
+  "company_id": "6351ee8614afad5ce8c9597a",
+  "tab_data": {
+    "technology": "Silver-infused patent-pending technology"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666314302047"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666314302047"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6352bc4914afad5ce8c95c8c"
+  },
+  "tab_title": "Technology",
+  "company_id": "6352b9d414afad5ce8c95c69",
+  "tab_data": {
+    "technology": "We've curated and constructed high-performance portfolios, including an algorithmic quantitative trading Bitcoin portfolio, a Metaverse Index, DeFi Index, Yield Farming on stablecoins, and an NFT portfolio"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666366537431"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666366537431"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63534f8514afad5ce8c95eb7"
+  },
+  "tab_title": "Technology",
+  "company_id": "63534e6a14afad5ce8c95e9a",
+  "tab_data": {
+    "technology": "Our heat pump harvests available waste heat at any temperature from 210°F/100°C to 930°F/500°C, or atmospheric heat down to -60°F/-50°C, and runs a near-ideal Stirling-like thermodynamic cycle to upgrade this heat to the desired process temperature.  Our heat pump uses Helium (R704) as the working gas, and various heat transfer fluids depending on the source and sink temperatures. It even works with intermittent processes requiring heat in bursts/duty cycles, or heat at temperatures that strongly vary in time (high glide). Its extremely simple mechanical design allows very low maintenance and downtime.  Depending on the set of temperatures, the Carnot efficiency can reach up to 86%, compared to about 60% for best-in-class high temperature heat pumps today."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666404229479"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666404229479"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63535ae614afad5ce8c95ff9"
+  },
+  "tab_title": "Technology",
+  "company_id": "635358e214afad5ce8c95fb1",
+  "tab_data": {
+    "technology": "Acute Myelogenous Leukemia (AML_ is our immediate focus. We have preclinical in vivo evidence supporting the potential use of OM-301 in a number of other types of cancers, including Multiple Myeloma (another blood cancer) and solid tumors such as colon, pancreatic, and sarcoma. We know that our target exists on the cell surface of over 25 types of cancer. If approved by the FDA, as far as we are aware of, OM-301 will be the only therapeutic that treats cancer by targeting this cell-surface HDM2 protein. "
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666407142771"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666407770620"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63535eee14afad5ce8c96096"
+  },
+  "tab_title": "Technology",
+  "company_id": "63535e2514afad5ce8c9607c",
+  "tab_data": {
+    "technology": "US Patent #10,842,706 and three issued foreign counterparts cover the original Zeen prototypes. Subsequent pending applications include the inventions behind the ‘Lightweight, Folding Zeen’ (currently in production), as follows: ‘Dual-State Casters’ (US, EP and four countries), permit unique forward tracking and rearward/sideways agility–with zero turning radius. ‘Lifting Mechanism & Chairs’ (PCT with US election, plus Taiwan), covers variations on Exokinetics’ proprietary Zeen lifting technology, including the subject matter of a confidential, world-wide, royalty-bearing license to an offshore furniture manufacturer. ‘Elevating Walker Chair and Components’ (US & PCT Application) covers subsequent inventive elements and improvements over US 10,842,706, as now embodied in production Zeens. Elevating Walker Chair with Seatbelt (Provisional App.) covers the novel seatbelt technology on the production Zeen."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666408174777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666408174777"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63538dea14afad5ce8c961cd"
+  },
+  "tab_title": "Technology",
+  "company_id": "63538d8c14afad5ce8c961b2",
+  "tab_data": {
+    "technology": "We're offering a better, sustainable, and cost-effective way to build everything from houses to commercial buildings. While most buildings are still built by hand, one at a time, we hope that our building system can change this and bring building construction into the factory.  A factory for mass-produced housing We have made it possible to mass-produce housing in a factory through shipping and manufacturing innovations. Our room module, the Casita, folds up to a shippable dimension, and upon arrival unfolds and sets up to a complete house in just a few hours. "
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666420202703"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666420202703"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6353940914afad5ce8c96222"
+  },
+  "tab_title": "Technology",
+  "company_id": "635392c114afad5ce8c961ff",
+  "tab_data": {
+    "technology": "Intelomed is developing mCVInsight, a new digital healthcare tool that will use non-contact technology to measure vital signs and other health-related metrics. With only a smartphone, telemedicine practitioners can be able to leverage this information in real-time to assess important diagnostic patient data in the quest to provide improved treatment outcomes. In 2012, we received FDA-clearance for CVInsight®, our first vital sign monitoring product created for the vulnerable dialysis population. While still in use in dialysis clinics today, our customers challenged us to untether our technology, and by 2017, we were able to successfully adapt and improve our existing device, creating an award-winning prototype for a new kind of monitoring system."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666421769960"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666421769960"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63668f7aa8ed6f0db24aea99"
+  },
+  "tab_title": "Technology",
+  "company_id": "63668df8a8ed6f0db24aea43",
+  "tab_data": {
+    "technology": ". Our blockchain technology will allow those who buy 25-hour memberships or 75-hour fractions the option to sell a portion of any unused time to any other Jet Token user or client – enabling a more accessible market and democratizing the use of time across individual service providers."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1667665786105"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1667666206544"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389d0fac37d72c0715700c0"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e872b52b2b8ea8d1eed41",
+  "tab_data": {
+    "technology": "Taking the cannabis & music synergy to the next level by creating the opportunity to shop for cannabis and music in a single location."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669976314818"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673778227131"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389d66dc37d72c0715700d8"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e862652b2b8ea8d1eed07",
+  "tab_data": {
+    "technology": "Tasting Room/Blending House"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669977709525"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673810009354"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6389d7fac37d72c0715700ef"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e84cb52b2b8ea8d1eecc3",
+  "tab_data": {
+    "technology": "Boutique cannabis retail shop that is from the community, for the community."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669978106468"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673805041770"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c0f0b9c37d72c0716a435a"
+  },
+  "tab_title": "Technology",
+  "company_id": "63774989efc640d0d0812d12",
+  "tab_data": {
+    "technology": "eCommerce Marketplace , with collaboration with 60+ suppliers"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673588921816"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673588921816"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c130c7273684a80a64f6c2"
+  },
+  "tab_title": "Technology",
+  "company_id": "6354261914afad5ce8c9645f",
+  "tab_data": {
+    "technology": "Safety Compliance Facility that offers cannabis testing services in the State of Michigan."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673605319319"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673774326353"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c198b3273684a80a651400"
+  },
+  "tab_title": "Technology",
+  "company_id": "635398b514afad5ce8c9627b",
+  "tab_data": {
+    "technology": "Portable power for people who want to live more independent, healthy and resilient lives"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673631923314"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673776277674"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c26943273684a80a656221"
+  },
+  "tab_title": "Technology",
+  "company_id": "636e7b7c9c82ef26d794a9d3",
+  "tab_data": {
+    "technology": "WiGL is the umbrella technology creating the future for smart, touchless, networked wireless power. WiGL, Wireless-electric Grid Local Air Networks (pronounced “wiggle”), is bringing new technologies developed for the Department of Defense to make everyone’s life more convenient .. by creating a network of targeted energy to power or recharge the Internet of Things (“IoT”). WiFi gets you wireless internet, WiGL gets you wireless power."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673685315327"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673685315327"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c26f55273684a80a656a21"
+  },
+  "tab_title": "Technology",
+  "company_id": "636e8ef29c82ef26d794aaec",
+  "tab_data": {
+    "technology": "Manufacturing techniques like injection molding are the reason we have access to so many affordable products that make our lives comfortable and convenient. By standardizing the size and shape of a product and manufacturing it by the millions, the price becomes sufficiently low that most people can afford to buy it."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673686869577"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673686869577"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2742f273684a80a656a98"
+  },
+  "tab_title": "Technology",
+  "company_id": "636fb6ca9c82ef26d794ab8d",
+  "tab_data": {
+    "technology": "Fanbase is a free to download, free to use microcast social media platform with subscription capability for every user"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673688111341"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673688111341"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2e888273684a80a659952"
+  },
+  "tab_title": "Technology",
+  "company_id": "63541f7214afad5ce8c9641b",
+  "tab_data": {
+    "technology": "A complimentary bakery operation to its original portfolio in the heart of Phoenix"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673717896649"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673717896649"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2f504273684a80a659f1b"
+  },
+  "tab_title": "Technology",
+  "company_id": "636fc2739c82ef26d794ac26",
+  "tab_data": {
+    "technology": "Superpremium beer brand with a mission to bring better, cleaner beer to the world."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673721092474"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673721092474"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c2fbae273684a80a65a241"
+  },
+  "tab_title": "Technology",
+  "company_id": "636e87ce9c82ef26d794aa3b",
+  "tab_data": {
+    "technology": "As A.I. technologists, we were initially excited when Siri and then Alexa first came out, but ultimately felt disappointed by their limitations. We realized that we could offer an alternative AI product that allows you to talk to your technology products as if you were talking with your best friend."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673722798677"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673722824016"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c43e28273684a80a661eed"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e838752b2b8ea8d1eec75",
+  "tab_data": {
+    "technology": "Recreational Cannabis Home Delivery"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673805352039"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673805352039"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c43f29273684a80a661f8f"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e824552b2b8ea8d1eec09",
+  "tab_data": {
+    "technology": "Flying Leap’s Estate Vineyards, Winery and Distillery facilities are one of the most beautiful wine venues in the southwestern United States"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673805609108"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673805609108"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4406c273684a80a662034"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e80f752b2b8ea8d1eebbf",
+  "tab_data": {
+    "technology": "Physically, it is a space that has a dual-focus. It is a small indoor play space for young children and also a cafe for adults to relax while their children play, also known as a “Play Cafe”."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673805932143"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673805932143"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c44208273684a80a6620e6"
+  },
+  "tab_title": "Technology",
+  "company_id": "637d1464c82350f3f6897930",
+  "tab_data": {
+    "technology": "Patented, differentiated technology allowing users to sit, stand, move and rest all while supported"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673806344461"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673806344461"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c4449b273684a80a66216b"
+  },
+  "tab_title": "Technology",
+  "company_id": "637d1069c82350f3f6897661",
+  "tab_data": {
+    "technology": "Biotech company aiming to treat cancer by exploding cancer cells"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673807003613"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673807003613"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c449d5273684a80a662310"
+  },
+  "tab_title": "Technology",
+  "company_id": "637d0930c82350f3f689713f",
+  "tab_data": {
+    "technology": "Vitaclean stands out from competitors for a few reasons. Our shower heads offer a triple-filtration system, vitamin C infusion, and a spa-like experience with easy-to-manage refill plans. We believe we are better than our competitors because of our vitamin C filtration technology and our use of the ingredient pectin which creates a hydrating feel on your skin post-shower and a glossy finish in your hair."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673808341447"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673808341447"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c44ef9273684a80a663194"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e7f7d52b2b8ea8d1eeb81",
+  "tab_data": {
+    "technology": "A fourth-generation family owned, and operated business in the heart of the high-country. We special"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673809657507"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673809657507"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c454fa273684a80a663313"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e7cda52b2b8ea8d1eeb16",
+  "tab_data": {
+    "technology": "D&J BarRoom"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673811194363"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673811194363"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c457c0273684a80a6633f3"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e7b5652b2b8ea8d1eeac5",
+  "tab_data": {
+    "technology": "Brewery and Taproom Coffee Roastery and Café"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673811904903"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673812027434"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c45acb273684a80a663456"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e53ba52b2b8ea8d1ee83c",
+  "tab_data": {
+    "technology": "Safety Compliance Facility that offers cannabis testing services in the State of Michigan."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673812683245"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673812683245"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c5054b273684a80a666dff"
+  },
+  "tab_title": "Technology",
+  "company_id": "637de2b852b2b8ea8d1ed003",
+  "tab_data": {
+    "technology": "Injaga Offer a user-friendly experience with knowledgeable staff and a wide variety of high-quality cannabis and non-cannabis CBD products."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673856331166"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673856331166"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c50853273684a80a666e52"
+  },
+  "tab_title": "Technology",
+  "company_id": "637ddc1952b2b8ea8d1ecfaf",
+  "tab_data": {
+    "technology": "Retail bakery specializing in fresh fare made from scratch. In the expansion outlined here, we will continue to expand our quick serve offerings and wholesale bakery sector and add a liquor license."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673857107111"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673857107111"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c50af3273684a80a666ef6"
+  },
+  "tab_title": "Technology",
+  "company_id": "637dd94052b2b8ea8d1ecf41",
+  "tab_data": {
+    "technology": "Local focused, malt forward, innovative brewery with core offerings in proven styles, in addition to creative small batch brews"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673857779342"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673857779342"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c5569a273684a80a668a1d"
+  },
+  "tab_title": "Technology",
+  "company_id": "637dd60d52b2b8ea8d1ecce9",
+  "tab_data": {
+    "technology": "Hot-from-the-oven small batch Croissants & Wild Sourdough"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673877146208"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673877146208"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c55872273684a80a668b6d"
+  },
+  "tab_title": "Technology",
+  "company_id": "637e79c852b2b8ea8d1eea8d",
+  "tab_data": {
+    "technology": "Brewery and Taproom Coffee Roastery and Café"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673877618058"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673877618058"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c55cd7273684a80a668bf3"
+  },
+  "tab_title": "Technology",
+  "company_id": "637ca31bc82350f3f68950a6",
+  "tab_data": {
+    "technology": "Free Spirits are award-winning, clean spirits, crafted for a healthier lifestyle without compromise."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673878743976"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673878743976"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c55ecb273684a80a668ca2"
+  },
+  "tab_title": "Technology",
+  "company_id": "637ca03dc82350f3f6894080",
+  "tab_data": {
+    "technology": "Solvpath Using technology to bypass human interaction in basic and even complex consumer tasks, meant a user-friendly experience was a must."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673879243266"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673879243266"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c56adc273684a80a668d91"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c9d68c82350f3f6894051",
+  "tab_data": {
+    "technology": "Field Day is a single platform that allows parents to explore activities for children of all ages and interests. Making it easy for parents to discover activities for their kids"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673882332937"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674054935114"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c56fdc273684a80a668e20"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c9a9dc82350f3f6893e1d",
+  "tab_data": {
+    "technology": "Artory's world-leading platform and technology is used to capture the artworks' due diligence data on the blockchain, providing investors with digital certification of artworks' immutable records, verified provenance, and due diligence."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673883612284"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673883625539"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c57494273684a80a669073"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c9811c82350f3f6893de6",
+  "tab_data": {
+    "technology": "Ultra Low Carb, Ketogenic Foods. Brownie Mix, Pancake Mix, Crunchy Granola, Keto Flatbread and Pizza Mix, and more."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673884820541"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673884820541"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c65894273684a80a66ddfd"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c95b6c82350f3f6893da7",
+  "tab_data": {
+    "technology": "The omnichannel health care platform for Africa"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673943188854"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673943188854"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c65c65273684a80a66df41"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c92c5c82350f3f6893d62",
+  "tab_data": {
+    "technology": "The travel club for women | International vacation and home rental platform"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673944165277"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673944165277"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c6650d273684a80a66e07a"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c8e79c82350f3f6893d45",
+  "tab_data": {
+    "technology": "LoopGolf is At the intersection of fintech, sports, and culture. Building a digital wallet to capture a golfer's entire spend"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673946381402"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674078423796"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c66ab5273684a80a66e159"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c8926c82350f3f6893cf7",
+  "tab_data": {
+    "technology": "JuneBrain®'s retinal imaging technology has the potential to identify neurological and eye diseases for the more than 1.3 billion individuals worldwide suffering from these conditions."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673947829962"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673947829962"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c6ad7e273684a80a66fc7d"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c8515c82350f3f6892fe6",
+  "tab_data": {
+    "technology": "Thomsen’s is the world leader in Clean Touch Technologies™, meaning that we are doing our job with a true goal in mind, providing the first product that is working for everybody: Users, Operators and Owners."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673964926983"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673964940243"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c6f25b273684a80a671797"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c747b55c888fb5b94c21d",
+  "tab_data": {
+    "technology": "Ingenii is a team of technologists with a passion for solving data and quantum engineering challenges.  We believe we can have an impact by applying these skills towards making the adoption of quantum computing as easy as possible. "
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673982555712"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673982555712"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c6f5f0273684a80a671870"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c713d55c888fb5b94c1b8",
+  "tab_data": {
+    "technology": "Living Technology—removing C02 more efficiently with the power of algae"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673983472768"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673983489505"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c6f9aa273684a80a67193e"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c6e4e55c888fb5b94c17e",
+  "tab_data": {
+    "technology": "A marketplace + SaaS making furniture sustainable, ethical and customizable"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673984426700"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673984426700"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c6fcea273684a80a6719b0"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c6b6955c888fb5b94c147",
+  "tab_data": {
+    "technology": "At Clockout, we see a future built on a community ecosystem -we're on a mission to celebrate friendship and empower personal growth through authentic connection."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673985258631"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673985272616"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c7072e273684a80a671a1f"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c692f55c888fb5b94c118",
+  "tab_data": {
+    "technology": "Fine wine and whiskey: a potentially profitable pairing for your portfolio. Vinovest is a modern platform handling the end-to-end process of wine & whiskey investing"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673987886560"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674074249026"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c70b65273684a80a671a8d"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c66cc55c888fb5b94c0df",
+  "tab_data": {
+    "technology": "The most delicious snack on the planet is now vegan, clean & sustainable"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673988965376"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673988984898"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c70de1273684a80a671adb"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c63e155c888fb5b94c0b0",
+  "tab_data": {
+    "technology": "Short Video + Social Audio + Social Commerce + Social Ed-Tech + Social Entertainment on Blockchain"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673989601534"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673989601534"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c70edb273684a80a671b30"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c607055c888fb5b94c079",
+  "tab_data": {
+    "technology": "Decentralized data and finance cloud for enterprises"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673989851034"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673989886094"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c71516273684a80a671b98"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c5e1c55c888fb5b94bcb3",
+  "tab_data": {
+    "technology": "Whole family wellness solutions, made sustainable, effective and clean"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673991446974"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673991446974"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c7175f273684a80a671bed"
+  },
+  "tab_title": "Technology",
+  "company_id": "637c587155c888fb5b94bc1f",
+  "tab_data": {
+    "technology": "Fintech for auto financing. A digital platform connecting independent dealers, lenders, and investors"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673992031815"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673992084330"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c71a2a273684a80a671c9a"
+  },
+  "tab_title": "Technology",
+  "company_id": "637ba1c655c888fb5b94ae41",
+  "tab_data": {
+    "technology": "Mobile blockchain with fiat payments and the free-to-play mechanic that won Web2. Pylons’s vision is to combine the power of art and technology as a force for positive progress. It’s why we’ve built the next generation layer 1 blockchain for all: Pylons is the infrastructure that could power the future of Web3."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673992746777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673992746777"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c71c67273684a80a672a1a"
+  },
+  "tab_title": "Technology",
+  "company_id": "637b8b1255c888fb5b94a9bd",
+  "tab_data": {
+    "technology": "The simplest platform for creating, teaching, and selling online courses. Testing this to see if this section will be updated as expected"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673993319175"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674022115626"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c8e3a3273684a80a67ccbc"
+  },
+  "tab_title": "Technology",
+  "company_id": "63c8e2b3273684a80a67cbfb",
+  "tab_data": {
+    "technology": "react "
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674109859050"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674109870934"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c96470273684a80a6804bd"
+  },
+  "tab_title": "Technology",
+  "company_id": "637b785255c888fb5b949536",
+  "tab_data": {
+    "technology": "In-store shopper behavior data for brands. Maximize missed sales opportunities."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674142832991"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674142832991"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c96a2c273684a80a681333"
+  },
+  "tab_title": "Technology",
+  "company_id": "637b5cc755c888fb5b948dab",
+  "tab_data": {
+    "technology": "Chateau Haut Brion is one of the legendary First Growths in Bordeaux and considered the most distinct, due to its illustrious history, distinct flavor profile and unusual bottle shape."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674144300401"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674144325504"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c96d67273684a80a6813db"
+  },
+  "tab_title": "Technology",
+  "company_id": "637b531c55c888fb5b9485ee",
+  "tab_data": {
+    "technology": "We are currently in-market (generating revenue in 2022) and aim to revitalize the car enthusiast community through new digital connections."
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674145127921"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674145127921"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c97020273684a80a681447"
+  },
+  "tab_title": "Technology",
+  "company_id": "637b505a55c888fb5b94859a",
+  "tab_data": {
+    "technology": "Winery"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674145824276"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674145824276"
+    }
+  },
+  "__v": 0
+}]
